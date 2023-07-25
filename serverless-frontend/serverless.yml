@@ -1,0 +1,70 @@
+# serverless.yml
+service: my-react-app
+provider:
+  name: aws
+  runtime: nodejs14.x
+  memorySize: 128
+  timeout: 60
+  profile: thesis-account
+  apiGateway:
+    shouldStartNameWithService: true  # Disable CloudFront
+
+custom:
+  apigwBinary:
+    types:
+      - 'image/jpeg'
+  s3Sync:
+    - bucketName: my-react-app-assets  # Replace with your desired bucket name
+      localDir: dist   
+    
+
+functions:
+  app:
+    handler: app.server
+    events:
+      - http:
+          path: /
+          method: get
+          cors: true
+          basePath: ''  # Set basePath to an empty string
+      - http:
+          path: /static
+          method: get
+          cors: true
+          basePath: ''  # Set basePath to an empty string
+      - http:
+          path: /index.js
+          method: get
+          cors: true
+          basePath: ''  # Set basePath to an empty string
+      - http:
+          path: /index.css
+          method: get
+          cors: true
+          basePath: ''  # Set basePath to an empty string
+      - http:
+          path: /index.html
+          method: get
+          cors: true
+          basePath: ''  # Set basePath to an empty string
+      - http:
+          path: /image1.jpg
+          method: get
+          cors: true
+          basePath: ''  # Set basePath to an empty string
+      - http:
+          path: /image2.jpg
+          method: get
+          cors: true
+          basePath: ''  # Set basePath to an empty string
+      - http:
+          path: /image3.jpg
+          method: get
+          cors: true
+          basePath: ''  # Set basePath to an empty string
+    package:
+      include:
+        - dist/**
+plugins:
+  - serverless-s3-sync
+  - serverless-apigw-binary

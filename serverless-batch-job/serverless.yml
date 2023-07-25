@@ -1,0 +1,47 @@
+# Welcome to Serverless!
+#
+# This file is the main config file for your service.
+# It's very minimal at this point and uses default values.
+# You can always add more config options for more control.
+# We've included some commented out config examples here.
+# Just uncomment any of them to get that config option.
+#
+# For full config options, check the docs:
+#    docs.serverless.com
+#
+# Happy Coding!
+
+service: chess-lambda
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: python3.10
+  profile: thesis-account
+  apiGateway:
+    shouldStartNameWithService: true  # Disable CloudFront
+    restApiId: bryzyjr93b
+
+functions:
+  computeMoves:
+    handler: handler.compute_moves
+    package:
+      include:
+        - requirements.txt
+    events:
+      - http:
+          path: batch
+          method: GET
+          cors: true
+          async: true
+    iamRoleStatements:
+      - Effect: Allow
+        Action:
+          - s3:PutObject
+        Resource: "arn:aws:s3:::thesislambdabucket/*"
+      - Effect: Allow
+        Action:
+          - s3:ListBucket
+        Resource: "arn:aws:s3:::thesislambdabucket"
+plugins:
+  - serverless-python-requirements

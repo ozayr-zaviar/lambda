@@ -1,0 +1,40 @@
+# serverless.yml
+service: my-node-app
+provider:
+  name: aws
+  runtime: nodejs18.x
+  memorySize: 128
+  timeout: 60
+  stage: dev # Change this to your desired stage
+  profile: thesis-account
+  apiGateway:
+    shouldStartNameWithService: true  # Disable CloudFront
+  environment:
+    DB_NAME: thesis
+    DB_USERNAME: postgres
+    DB_PASSWORD: postgres
+    DB_HOST: thesis.c41xgmauipnh.us-east-1.rds.amazonaws.com
+functions:
+  app:
+    handler: app.server # reference the file and exported method
+    events:
+      - http:
+          path: /
+          method: get
+          cors: true
+      - http:
+          path: /create_user
+          method: post
+          cors: true
+      - http:
+          path: /create_magazine
+          method: post
+          cors: true
+      - http:
+          path: /create_subscription
+          method: post
+          cors: true
+      - http:
+          path: /subscriptions
+          method: get
+          cors: true
