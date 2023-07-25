@@ -1,0 +1,658 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Filename,Latency,Encoding,SampleCount,ErrorCount,Hostname,IdleTime,Connect
+1688347187607,346,/static,200,OK,Static 1-19,text,true,,1779,322,37,37,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,48,UTF-8,1,0,DESKTOP-JMD9GU4,0,25
+1688347187607,48,/static-0,301,Moved Permanently,Static 1-19,text,true,,606,161,37,37,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,48,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,25
+1688347187655,298,/static-1,200,OK,Static 1-19,text,true,,1173,161,37,37,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,298,UTF-8,1,0,DESKTOP-JMD9GU4,0,53
+1688347187625,331,/static,200,OK,Static 1-20,text,true,,1779,322,37,37,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,45,UTF-8,1,0,DESKTOP-JMD9GU4,0,23
+1688347187625,45,/static-0,301,Moved Permanently,Static 1-20,text,true,,606,161,37,37,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,45,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,23
+1688347187670,286,/static-1,200,OK,Static 1-20,text,true,,1173,161,37,37,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,286,UTF-8,1,0,DESKTOP-JMD9GU4,0,49
+1688347187273,749,/static,200,OK,Static 1-1,text,true,,1779,322,41,41,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,49,UTF-8,1,0,DESKTOP-JMD9GU4,0,26
+1688347187273,49,/static-0,301,Moved Permanently,Static 1-1,text,true,,606,161,41,41,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,49,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,26
+1688347187323,699,/static-1,200,OK,Static 1-1,text,true,,1173,161,41,41,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,699,UTF-8,1,0,DESKTOP-JMD9GU4,0,66
+1688347187312,739,/static,200,OK,Static 1-3,text,true,,1779,322,43,43,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,39,UTF-8,1,0,DESKTOP-JMD9GU4,0,20
+1688347187312,39,/static-0,301,Moved Permanently,Static 1-3,text,true,,606,161,43,43,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,39,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,20
+1688347187352,699,/static-1,200,OK,Static 1-3,text,true,,1173,161,43,43,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,699,UTF-8,1,0,DESKTOP-JMD9GU4,0,58
+1688347187330,748,/static,200,OK,Static 1-4,text,true,,1779,322,44,44,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,45,UTF-8,1,0,DESKTOP-JMD9GU4,0,22
+1688347187330,45,/static-0,301,Moved Permanently,Static 1-4,text,true,,606,161,44,44,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,45,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,22
+1688347187376,702,/static-1,200,OK,Static 1-4,text,true,,1173,161,44,44,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,702,UTF-8,1,0,DESKTOP-JMD9GU4,0,59
+1688347187349,736,/static,200,OK,Static 1-5,text,true,,1779,322,44,44,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,42,UTF-8,1,0,DESKTOP-JMD9GU4,0,21
+1688347187349,42,/static-0,301,Moved Permanently,Static 1-5,text,true,,606,161,44,44,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,42,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,21
+1688347187392,693,/static-1,200,OK,Static 1-5,text,true,,1173,161,44,44,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,693,UTF-8,1,0,DESKTOP-JMD9GU4,0,58
+1688347187367,739,/static,200,OK,Static 1-6,text,true,,1779,322,46,46,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,46,UTF-8,1,0,DESKTOP-JMD9GU4,0,23
+1688347187367,46,/static-0,301,Moved Permanently,Static 1-6,text,true,,606,161,46,46,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,46,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,23
+1688347187414,692,/static-1,200,OK,Static 1-6,text,true,,1173,161,46,46,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,692,UTF-8,1,0,DESKTOP-JMD9GU4,0,58
+1688347187385,730,/static,200,OK,Static 1-7,text,true,,1779,322,46,46,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,43,UTF-8,1,0,DESKTOP-JMD9GU4,0,22
+1688347187385,43,/static-0,301,Moved Permanently,Static 1-7,text,true,,606,161,46,46,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,43,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,22
+1688347187429,686,/static-1,200,OK,Static 1-7,text,true,,1173,161,46,46,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,686,UTF-8,1,0,DESKTOP-JMD9GU4,0,54
+1688347187404,741,/static,200,OK,Static 1-8,text,true,,1779,322,48,48,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,42,UTF-8,1,0,DESKTOP-JMD9GU4,0,21
+1688347187404,42,/static-0,301,Moved Permanently,Static 1-8,text,true,,606,161,48,48,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,42,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,21
+1688347187447,698,/static-1,200,OK,Static 1-8,text,true,,1173,161,48,48,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,698,UTF-8,1,0,DESKTOP-JMD9GU4,0,58
+1688347187810,342,/static,200,OK,Static 1-30,text,true,,1779,322,48,48,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,45,UTF-8,1,0,DESKTOP-JMD9GU4,0,23
+1688347187810,45,/static-0,301,Moved Permanently,Static 1-30,text,true,,606,161,48,48,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,45,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,23
+1688347187856,296,/static-1,200,OK,Static 1-30,text,true,,1173,161,48,48,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,296,UTF-8,1,0,DESKTOP-JMD9GU4,0,57
+1688347187422,740,/static,200,OK,Static 1-9,text,true,,1779,322,49,49,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,45,UTF-8,1,0,DESKTOP-JMD9GU4,0,22
+1688347187422,45,/static-0,301,Moved Permanently,Static 1-9,text,true,,606,161,49,49,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,45,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,22
+1688347187468,694,/static-1,200,OK,Static 1-9,text,true,,1173,161,49,49,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,694,UTF-8,1,0,DESKTOP-JMD9GU4,0,57
+1688347187441,731,/static,200,OK,Static 1-10,text,true,,1779,322,49,49,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,40,UTF-8,1,0,DESKTOP-JMD9GU4,0,20
+1688347187441,40,/static-0,301,Moved Permanently,Static 1-10,text,true,,606,161,49,49,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,40,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,20
+1688347187481,691,/static-1,200,OK,Static 1-10,text,true,,1173,161,49,49,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,691,UTF-8,1,0,DESKTOP-JMD9GU4,0,58
+1688347187461,736,/static,200,OK,Static 1-11,text,true,,1779,322,50,50,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,45,UTF-8,1,0,DESKTOP-JMD9GU4,0,22
+1688347187461,45,/static-0,301,Moved Permanently,Static 1-11,text,true,,606,161,50,50,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,45,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,22
+1688347187506,691,/static-1,200,OK,Static 1-11,text,true,,1173,161,50,50,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,691,UTF-8,1,0,DESKTOP-JMD9GU4,0,57
+1688347187478,739,/static,200,OK,Static 1-12,text,true,,1779,322,52,52,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,45,UTF-8,1,0,DESKTOP-JMD9GU4,0,23
+1688347187478,45,/static-0,301,Moved Permanently,Static 1-12,text,true,,606,161,52,52,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,45,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,23
+1688347187524,693,/static-1,200,OK,Static 1-12,text,true,,1173,161,52,52,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,693,UTF-8,1,0,DESKTOP-JMD9GU4,0,57
+1688347187497,738,/static,200,OK,Static 1-13,text,true,,1779,322,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,46,UTF-8,1,0,DESKTOP-JMD9GU4,0,23
+1688347187497,46,/static-0,301,Moved Permanently,Static 1-13,text,true,,606,161,53,53,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,46,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,23
+1688347187544,691,/static-1,200,OK,Static 1-13,text,true,,1173,161,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,691,UTF-8,1,0,DESKTOP-JMD9GU4,0,56
+1688347187515,735,/static,200,OK,Static 1-14,text,true,,1779,322,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,42,UTF-8,1,0,DESKTOP-JMD9GU4,0,21
+1688347187515,42,/static-0,301,Moved Permanently,Static 1-14,text,true,,606,161,53,53,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,42,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,21
+1688347187558,692,/static-1,200,OK,Static 1-14,text,true,,1173,161,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,692,UTF-8,1,0,DESKTOP-JMD9GU4,0,57
+1688347187533,739,/static,200,OK,Static 1-15,text,true,,1779,322,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,46,UTF-8,1,0,DESKTOP-JMD9GU4,0,23
+1688347187533,46,/static-0,301,Moved Permanently,Static 1-15,text,true,,606,161,54,54,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,46,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,23
+1688347187579,693,/static-1,200,OK,Static 1-15,text,true,,1173,161,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,693,UTF-8,1,0,DESKTOP-JMD9GU4,0,56
+1688347187551,725,/static,200,OK,Static 1-16,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,46,UTF-8,1,0,DESKTOP-JMD9GU4,0,23
+1688347187551,46,/static-0,301,Moved Permanently,Static 1-16,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,46,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,23
+1688347187597,679,/static-1,200,OK,Static 1-16,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,679,UTF-8,1,0,DESKTOP-JMD9GU4,0,50
+1688347187292,998,/static,200,OK,Static 1-2,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,43,UTF-8,1,0,DESKTOP-JMD9GU4,0,22
+1688347187292,43,/static-0,301,Moved Permanently,Static 1-2,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,43,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,22
+1688347187336,954,/static-1,200,OK,Static 1-2,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,954,UTF-8,1,0,DESKTOP-JMD9GU4,0,317
+1688347187570,730,/static,200,OK,Static 1-17,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,41,UTF-8,1,0,DESKTOP-JMD9GU4,0,20
+1688347187570,41,/static-0,301,Moved Permanently,Static 1-17,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,41,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,20
+1688347187612,688,/static-1,200,OK,Static 1-17,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,688,UTF-8,1,0,DESKTOP-JMD9GU4,0,56
+1688347187589,739,/static,200,OK,Static 1-18,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,43,UTF-8,1,0,DESKTOP-JMD9GU4,0,22
+1688347187589,43,/static-0,301,Moved Permanently,Static 1-18,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,43,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,22
+1688347187633,695,/static-1,200,OK,Static 1-18,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,695,UTF-8,1,0,DESKTOP-JMD9GU4,0,56
+1688347187643,736,/static,200,OK,Static 1-21,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,47,UTF-8,1,0,DESKTOP-JMD9GU4,0,24
+1688347187643,47,/static-0,301,Moved Permanently,Static 1-21,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,47,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,24
+1688347187690,689,/static-1,200,OK,Static 1-21,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,689,UTF-8,1,0,DESKTOP-JMD9GU4,0,56
+1688347187662,739,/static,200,OK,Static 1-22,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,45,UTF-8,1,0,DESKTOP-JMD9GU4,0,23
+1688347187662,45,/static-0,301,Moved Permanently,Static 1-22,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,45,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,23
+1688347187708,693,/static-1,200,OK,Static 1-22,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,693,UTF-8,1,0,DESKTOP-JMD9GU4,0,56
+1688347187681,728,/static,200,OK,Static 1-23,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,42,UTF-8,1,0,DESKTOP-JMD9GU4,0,21
+1688347187681,42,/static-0,301,Moved Permanently,Static 1-23,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,42,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,21
+1688347187723,686,/static-1,200,OK,Static 1-23,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,686,UTF-8,1,0,DESKTOP-JMD9GU4,0,53
+1688347187699,736,/static,200,OK,Static 1-24,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,46,UTF-8,1,0,DESKTOP-JMD9GU4,0,23
+1688347187699,46,/static-0,301,Moved Permanently,Static 1-24,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,46,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,23
+1688347187745,690,/static-1,200,OK,Static 1-24,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,690,UTF-8,1,0,DESKTOP-JMD9GU4,0,59
+1688347187717,727,/static,200,OK,Static 1-25,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,45,UTF-8,1,0,DESKTOP-JMD9GU4,0,23
+1688347187717,45,/static-0,301,Moved Permanently,Static 1-25,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,45,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,23
+1688347187763,681,/static-1,200,OK,Static 1-25,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,681,UTF-8,1,0,DESKTOP-JMD9GU4,0,52
+1688347187736,738,/static,200,OK,Static 1-26,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,45,UTF-8,1,0,DESKTOP-JMD9GU4,0,23
+1688347187736,45,/static-0,301,Moved Permanently,Static 1-26,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,45,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,23
+1688347187782,692,/static-1,200,OK,Static 1-26,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,692,UTF-8,1,0,DESKTOP-JMD9GU4,0,56
+1688347187754,739,/static,200,OK,Static 1-27,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,47,UTF-8,1,0,DESKTOP-JMD9GU4,0,24
+1688347187754,47,/static-0,301,Moved Permanently,Static 1-27,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,47,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,24
+1688347187801,692,/static-1,200,OK,Static 1-27,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,692,UTF-8,1,0,DESKTOP-JMD9GU4,0,56
+1688347187774,733,/static,200,OK,Static 1-28,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,47,UTF-8,1,0,DESKTOP-JMD9GU4,0,23
+1688347187774,47,/static-0,301,Moved Permanently,Static 1-28,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,47,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,23
+1688347187821,686,/static-1,200,OK,Static 1-28,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,686,UTF-8,1,0,DESKTOP-JMD9GU4,0,55
+1688347187792,732,/static,200,OK,Static 1-29,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,47,UTF-8,1,0,DESKTOP-JMD9GU4,0,25
+1688347187792,47,/static-0,301,Moved Permanently,Static 1-29,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,47,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,25
+1688347187840,684,/static-1,200,OK,Static 1-29,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,684,UTF-8,1,0,DESKTOP-JMD9GU4,0,52
+1688347188198,332,/static,200,OK,Static 1-51,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,41,UTF-8,1,0,DESKTOP-JMD9GU4,0,20
+1688347188198,41,/static-0,301,Moved Permanently,Static 1-51,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,41,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,20
+1688347188240,290,/static-1,200,OK,Static 1-51,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,290,UTF-8,1,0,DESKTOP-JMD9GU4,0,50
+1688347187829,745,/static,200,OK,Static 1-31,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,47,UTF-8,1,0,DESKTOP-JMD9GU4,0,24
+1688347187829,47,/static-0,301,Moved Permanently,Static 1-31,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,47,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,24
+1688347187877,697,/static-1,200,OK,Static 1-31,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,697,UTF-8,1,0,DESKTOP-JMD9GU4,0,61
+1688347187847,731,/static,200,OK,Static 1-32,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,43,UTF-8,1,0,DESKTOP-JMD9GU4,0,21
+1688347187847,43,/static-0,301,Moved Permanently,Static 1-32,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,43,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,21
+1688347187890,688,/static-1,200,OK,Static 1-32,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,688,UTF-8,1,0,DESKTOP-JMD9GU4,0,56
+1688347187866,735,/static,200,OK,Static 1-33,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,46,UTF-8,1,0,DESKTOP-JMD9GU4,0,21
+1688347187866,46,/static-0,301,Moved Permanently,Static 1-33,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,46,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,21
+1688347187912,689,/static-1,200,OK,Static 1-33,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,689,UTF-8,1,0,DESKTOP-JMD9GU4,0,57
+1688347187885,735,/static,200,OK,Static 1-34,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,49,UTF-8,1,0,DESKTOP-JMD9GU4,0,27
+1688347187885,49,/static-0,301,Moved Permanently,Static 1-34,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,49,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,27
+1688347187935,685,/static-1,200,OK,Static 1-34,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,685,UTF-8,1,0,DESKTOP-JMD9GU4,0,53
+1688347187904,724,/static,200,OK,Static 1-35,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,41,UTF-8,1,0,DESKTOP-JMD9GU4,0,21
+1688347187904,41,/static-0,301,Moved Permanently,Static 1-35,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,41,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,21
+1688347187946,682,/static-1,200,OK,Static 1-35,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,682,UTF-8,1,0,DESKTOP-JMD9GU4,0,52
+1688347188273,371,/static,200,OK,Static 1-55,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,45,UTF-8,1,0,DESKTOP-JMD9GU4,0,22
+1688347188273,45,/static-0,301,Moved Permanently,Static 1-55,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,45,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,22
+1688347188319,325,/static-1,200,OK,Static 1-55,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,325,UTF-8,1,0,DESKTOP-JMD9GU4,0,54
+1688347187922,734,/static,200,OK,Static 1-36,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,44,UTF-8,1,0,DESKTOP-JMD9GU4,0,21
+1688347187922,44,/static-0,301,Moved Permanently,Static 1-36,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,44,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,21
+1688347187967,689,/static-1,200,OK,Static 1-36,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,689,UTF-8,1,0,DESKTOP-JMD9GU4,0,52
+1688347187941,736,/static,200,OK,Static 1-37,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,48,UTF-8,1,0,DESKTOP-JMD9GU4,0,25
+1688347187941,48,/static-0,301,Moved Permanently,Static 1-37,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,48,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,25
+1688347187990,687,/static-1,200,OK,Static 1-37,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,687,UTF-8,1,0,DESKTOP-JMD9GU4,0,55
+1688347187959,739,/static,200,OK,Static 1-38,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,46,UTF-8,1,0,DESKTOP-JMD9GU4,0,23
+1688347187959,46,/static-0,301,Moved Permanently,Static 1-38,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,46,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,23
+1688347188005,693,/static-1,200,OK,Static 1-38,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,693,UTF-8,1,0,DESKTOP-JMD9GU4,0,56
+1688347187978,732,/static,200,OK,Static 1-39,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,39,UTF-8,1,0,DESKTOP-JMD9GU4,0,19
+1688347187978,39,/static-0,301,Moved Permanently,Static 1-39,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,39,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,19
+1688347188017,693,/static-1,200,OK,Static 1-39,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,693,UTF-8,1,0,DESKTOP-JMD9GU4,0,56
+1688347187996,729,/static,200,OK,Static 1-40,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,45,UTF-8,1,0,DESKTOP-JMD9GU4,0,23
+1688347187996,45,/static-0,301,Moved Permanently,Static 1-40,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,45,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,23
+1688347188042,683,/static-1,200,OK,Static 1-40,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,683,UTF-8,1,0,DESKTOP-JMD9GU4,0,51
+1688347188015,734,/static,200,OK,Static 1-41,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,41,UTF-8,1,0,DESKTOP-JMD9GU4,0,20
+1688347188015,41,/static-0,301,Moved Permanently,Static 1-41,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,41,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,20
+1688347188057,692,/static-1,200,OK,Static 1-41,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,692,UTF-8,1,0,DESKTOP-JMD9GU4,0,53
+1688347188033,733,/static,200,OK,Static 1-42,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,42,UTF-8,1,0,DESKTOP-JMD9GU4,0,21
+1688347188033,42,/static-0,301,Moved Permanently,Static 1-42,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,42,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,21
+1688347188076,690,/static-1,200,OK,Static 1-42,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,690,UTF-8,1,0,DESKTOP-JMD9GU4,0,54
+1688347188051,738,/static,200,OK,Static 1-43,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,46,UTF-8,1,0,DESKTOP-JMD9GU4,0,23
+1688347188051,46,/static-0,301,Moved Permanently,Static 1-43,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,46,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,23
+1688347188098,691,/static-1,200,OK,Static 1-43,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,691,UTF-8,1,0,DESKTOP-JMD9GU4,0,57
+1688347188069,736,/static,200,OK,Static 1-44,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,46,UTF-8,1,0,DESKTOP-JMD9GU4,0,23
+1688347188069,46,/static-0,301,Moved Permanently,Static 1-44,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,46,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,23
+1688347188116,689,/static-1,200,OK,Static 1-44,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,689,UTF-8,1,0,DESKTOP-JMD9GU4,0,55
+1688347188087,739,/static,200,OK,Static 1-45,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,46,UTF-8,1,0,DESKTOP-JMD9GU4,0,23
+1688347188087,46,/static-0,301,Moved Permanently,Static 1-45,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,46,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,23
+1688347188134,692,/static-1,200,OK,Static 1-45,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,692,UTF-8,1,0,DESKTOP-JMD9GU4,0,56
+1688347188106,740,/static,200,OK,Static 1-46,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,46,UTF-8,1,0,DESKTOP-JMD9GU4,0,23
+1688347188106,46,/static-0,301,Moved Permanently,Static 1-46,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,46,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,23
+1688347188152,694,/static-1,200,OK,Static 1-46,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,694,UTF-8,1,0,DESKTOP-JMD9GU4,0,57
+1688347188124,740,/static,200,OK,Static 1-47,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,46,UTF-8,1,0,DESKTOP-JMD9GU4,0,23
+1688347188124,46,/static-0,301,Moved Permanently,Static 1-47,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,46,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,23
+1688347188171,693,/static-1,200,OK,Static 1-47,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,693,UTF-8,1,0,DESKTOP-JMD9GU4,0,56
+1688347188143,728,/static,200,OK,Static 1-48,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,43,UTF-8,1,0,DESKTOP-JMD9GU4,0,22
+1688347188143,43,/static-0,301,Moved Permanently,Static 1-48,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,43,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,22
+1688347188186,685,/static-1,200,OK,Static 1-48,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,685,UTF-8,1,0,DESKTOP-JMD9GU4,0,53
+1688347188161,735,/static,200,OK,Static 1-49,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,46,UTF-8,1,0,DESKTOP-JMD9GU4,0,23
+1688347188161,46,/static-0,301,Moved Permanently,Static 1-49,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,46,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,23
+1688347188207,689,/static-1,200,OK,Static 1-49,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,689,UTF-8,1,0,DESKTOP-JMD9GU4,0,56
+1688347188180,737,/static,200,OK,Static 1-50,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,45,UTF-8,1,0,DESKTOP-JMD9GU4,0,23
+1688347188180,45,/static-0,301,Moved Permanently,Static 1-50,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,45,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,23
+1688347188226,691,/static-1,200,OK,Static 1-50,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,691,UTF-8,1,0,DESKTOP-JMD9GU4,0,56
+1688347188217,727,/static,200,OK,Static 1-52,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,42,UTF-8,1,0,DESKTOP-JMD9GU4,0,21
+1688347188217,42,/static-0,301,Moved Permanently,Static 1-52,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,42,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,21
+1688347188259,685,/static-1,200,OK,Static 1-52,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,685,UTF-8,1,0,DESKTOP-JMD9GU4,0,52
+1688347188236,731,/static,200,OK,Static 1-53,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,42,UTF-8,1,0,DESKTOP-JMD9GU4,0,21
+1688347188236,42,/static-0,301,Moved Permanently,Static 1-53,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,42,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,21
+1688347188279,688,/static-1,200,OK,Static 1-53,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,688,UTF-8,1,0,DESKTOP-JMD9GU4,0,55
+1688347188254,734,/static,200,OK,Static 1-54,text,true,,1779,322,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,46,UTF-8,1,0,DESKTOP-JMD9GU4,0,23
+1688347188254,46,/static-0,301,Moved Permanently,Static 1-54,text,true,,606,161,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,46,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,23
+1688347188300,688,/static-1,200,OK,Static 1-54,text,true,,1173,161,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/static,,688,UTF-8,1,0,DESKTOP-JMD9GU4,0,55
+1688347188236,874,/index.js,200,OK,Static 1-13,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188236,23,/index.js-0,301,Moved Permanently,Static 1-13,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188259,851,/index.js-1,200,OK,Static 1-13,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,448,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347187953,1255,/index.js,200,OK,Static 1-19,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,23,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347187953,23,/index.js-0,301,Moved Permanently,Static 1-19,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,23,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347187976,1232,/index.js-1,200,OK,Static 1-19,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,834,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347187957,1264,/index.js,200,OK,Static 1-20,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,21,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347187957,21,/index.js-0,301,Moved Permanently,Static 1-20,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,21,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347187978,1243,/index.js-1,200,OK,Static 1-20,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,841,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188023,1263,/index.js,200,OK,Static 1-1,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,21,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188023,21,/index.js-0,301,Moved Permanently,Static 1-1,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,21,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188045,1241,/index.js-1,200,OK,Static 1-1,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,839,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188052,1261,/index.js,200,OK,Static 1-3,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,19,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188052,19,/index.js-0,301,Moved Permanently,Static 1-3,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,19,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188071,1242,/index.js-1,200,OK,Static 1-3,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,841,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188078,1264,/index.js,200,OK,Static 1-4,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,23,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188078,23,/index.js-0,301,Moved Permanently,Static 1-4,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,23,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188101,1241,/index.js-1,200,OK,Static 1-4,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,839,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188085,1266,/index.js,200,OK,Static 1-5,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,21,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188085,21,/index.js-0,301,Moved Permanently,Static 1-5,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,21,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188107,1244,/index.js-1,200,OK,Static 1-5,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,842,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188115,1266,/index.js,200,OK,Static 1-7,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,21,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188115,21,/index.js-0,301,Moved Permanently,Static 1-7,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,21,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188136,1245,/index.js-1,200,OK,Static 1-7,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,843,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188106,1287,/index.js,200,OK,Static 1-6,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,23,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188106,23,/index.js-0,301,Moved Permanently,Static 1-6,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,23,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188129,1264,/index.js-1,200,OK,Static 1-6,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,842,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188152,1264,/index.js,200,OK,Static 1-30,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188152,22,/index.js-0,301,Moved Permanently,Static 1-30,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188174,1242,/index.js-1,200,OK,Static 1-30,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,840,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188145,1285,/index.js,200,OK,Static 1-8,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,21,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188145,21,/index.js-0,301,Moved Permanently,Static 1-8,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,21,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188166,1264,/index.js-1,200,OK,Static 1-8,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,840,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188162,1269,/index.js,200,OK,Static 1-9,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,23,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188162,23,/index.js-0,301,Moved Permanently,Static 1-9,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,23,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188185,1246,/index.js-1,200,OK,Static 1-9,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,842,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188172,1280,/index.js,200,OK,Static 1-10,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,18,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188172,18,/index.js-0,301,Moved Permanently,Static 1-10,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,18,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188191,1261,/index.js-1,200,OK,Static 1-10,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,841,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188628,1427,/index.js,200,OK,Static 1-35,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,21,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188628,21,/index.js-0,301,Moved Permanently,Static 1-35,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,21,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188649,1406,/index.js-1,200,OK,Static 1-35,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,835,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188380,1728,/index.js,200,OK,Static 1-21,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188380,22,/index.js-0,301,Moved Permanently,Static 1-21,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188402,1706,/index.js-1,200,OK,Static 1-21,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,841,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188766,1344,/index.js,200,OK,Static 1-42,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,21,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188766,21,/index.js-0,301,Moved Permanently,Static 1-42,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,21,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188787,1323,/index.js-1,200,OK,Static 1-42,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,1056,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188578,1625,/index.js,200,OK,Static 1-32,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,21,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188578,21,/index.js-0,301,Moved Permanently,Static 1-32,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,21,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188599,1604,/index.js-1,200,OK,Static 1-32,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,843,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188871,1361,/index.js,200,OK,Static 1-48,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,20,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188871,20,/index.js-0,301,Moved Permanently,Static 1-48,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,20,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188891,1341,/index.js-1,200,OK,Static 1-48,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,897,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188444,2013,/index.js,200,OK,Static 1-25,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,23,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188444,23,/index.js-0,301,Moved Permanently,Static 1-25,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,23,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188467,1990,/index.js-1,200,OK,Static 1-25,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,838,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347190110,604,/index.css,200,OK,Static 1-42,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,21,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347190110,21,/index.css-0,301,Moved Permanently,Static 1-42,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,21,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347190131,583,/index.css-1,200,OK,Static 1-42,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,273,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347189313,1433,/index.css,200,OK,Static 1-3,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,19,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347189313,19,/index.css-0,301,Moved Permanently,Static 1-3,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,19,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347189332,1414,/index.css-1,200,OK,Static 1-3,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,838,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347189286,1504,/index.css,200,OK,Static 1-1,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,23,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347189286,23,/index.css-0,301,Moved Permanently,Static 1-1,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,23,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347189309,1481,/index.css-1,200,OK,Static 1-1,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,843,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188944,1889,/index.js,200,OK,Static 1-52,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,21,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188944,21,/index.js-0,301,Moved Permanently,Static 1-52,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,21,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188965,1868,/index.js-1,200,OK,Static 1-52,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,1684,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188507,2342,/index.js,200,OK,Static 1-28,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,23,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188507,23,/index.js-0,301,Moved Permanently,Static 1-28,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,23,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188530,2319,/index.js-1,200,OK,Static 1-28,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,845,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347189417,1456,/index.css,200,OK,Static 1-30,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347189417,22,/index.css-0,301,Moved Permanently,Static 1-30,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347189439,1434,/index.css-1,200,OK,Static 1-30,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,862,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188656,2233,/index.js,200,OK,Static 1-36,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,20,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188656,20,/index.js-0,301,Moved Permanently,Static 1-36,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,20,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188676,2213,/index.js-1,200,OK,Static 1-36,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,1257,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347189209,1740,/index.css,200,OK,Static 1-19,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,23,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347189209,23,/index.css-0,301,Moved Permanently,Static 1-19,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,23,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347189232,1717,/index.css-1,200,OK,Static 1-19,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,904,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347189452,1536,/index.css,200,OK,Static 1-10,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,19,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347189452,19,/index.css-0,301,Moved Permanently,Static 1-10,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,19,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347189471,1517,/index.css-1,200,OK,Static 1-10,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,842,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188750,2260,/index.js,200,OK,Static 1-41,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,20,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188750,20,/index.js-0,301,Moved Permanently,Static 1-41,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,20,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188770,2240,/index.js-1,200,OK,Static 1-41,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,988,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347189430,1670,/index.css,200,OK,Static 1-8,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,21,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347189430,21,/index.css-0,301,Moved Permanently,Static 1-8,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,21,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347189451,1649,/index.css-1,200,OK,Static 1-8,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,1056,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188218,2929,/index.js,200,OK,Static 1-12,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188218,22,/index.js-0,301,Moved Permanently,Static 1-12,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188240,2907,/index.js-1,200,OK,Static 1-12,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,838,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188897,2255,/index.js,200,OK,Static 1-49,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188897,22,/index.js-0,301,Moved Permanently,Static 1-49,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188919,2233,/index.js-1,200,OK,Static 1-49,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,1230,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188917,2236,/index.js,200,OK,Static 1-50,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188917,22,/index.js-0,301,Moved Permanently,Static 1-50,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188939,2214,/index.js-1,200,OK,Static 1-50,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,863,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347189394,1774,/index.css,200,OK,Static 1-6,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347189394,22,/index.css-0,301,Moved Permanently,Static 1-6,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347189416,1752,/index.css-1,200,OK,Static 1-6,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,909,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188989,2185,/index.js,200,OK,Static 1-54,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188989,22,/index.js-0,301,Moved Permanently,Static 1-54,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347189011,2163,/index.js-1,200,OK,Static 1-54,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,1190,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347189343,1922,/index.css,200,OK,Static 1-4,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347189343,22,/index.css-0,301,Moved Permanently,Static 1-4,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347189365,1900,/index.css-1,200,OK,Static 1-4,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,907,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188525,2891,/index.js,200,OK,Static 1-29,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188525,22,/index.js-0,301,Moved Permanently,Static 1-29,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188547,2869,/index.js-1,200,OK,Static 1-29,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,837,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188967,2587,/index.js,200,OK,Static 1-53,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,21,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188967,21,/index.js-0,301,Moved Permanently,Static 1-53,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,21,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188988,2566,/index.js-1,200,OK,Static 1-53,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,1060,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188620,2940,/index.js,200,OK,Static 1-34,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188620,22,/index.js-0,301,Moved Permanently,Static 1-34,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188642,2918,/index.js-1,200,OK,Static 1-34,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,844,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347190055,1546,/index.css,200,OK,Static 1-35,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,20,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347190055,20,/index.css-0,301,Moved Permanently,Static 1-35,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,20,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347190075,1526,/index.css-1,200,OK,Static 1-35,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,1087,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347189221,2406,/index.css,200,OK,Static 1-20,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,21,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347189221,21,/index.css-0,301,Moved Permanently,Static 1-20,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,21,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347189242,2385,/index.css-1,200,OK,Static 1-20,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,848,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188826,2863,/index.js,200,OK,Static 1-45,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188826,22,/index.js-0,301,Moved Permanently,Static 1-45,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188848,2841,/index.js-1,200,OK,Static 1-45,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,2392,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347189431,2457,/index.css,200,OK,Static 1-9,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347189431,22,/index.css-0,301,Moved Permanently,Static 1-9,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347189453,2435,/index.css-1,200,OK,Static 1-9,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,1754,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188677,3264,/index.js,200,OK,Static 1-37,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,23,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347190203,1736,/index.css,200,OK,Static 1-32,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,274,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188677,23,/index.js-0,301,Moved Permanently,Static 1-37,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,23,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347190203,274,/index.css-0,301,Moved Permanently,Static 1-32,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,274,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188700,3241,/index.js-1,200,OK,Static 1-37,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,2658,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347190477,1462,/index.css-1,200,OK,Static 1-32,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,932,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347189351,2641,/index.css,200,OK,Static 1-5,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,21,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347189351,21,/index.css-0,301,Moved Permanently,Static 1-5,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,21,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347189372,2620,/index.css-1,200,OK,Static 1-5,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,2289,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347189110,2999,/index.css,200,OK,Static 1-13,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347189110,22,/index.css-0,301,Moved Permanently,Static 1-13,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347189133,2976,/index.css-1,200,OK,Static 1-13,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,2090,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347190232,1963,/index.css,200,OK,Static 1-48,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,540,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347190232,540,/index.css-0,301,Moved Permanently,Static 1-48,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,540,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347190772,1423,/index.css-1,200,OK,Static 1-48,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,851,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347190833,1461,/index.css,200,OK,Static 1-52,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,20,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347190833,20,/index.css-0,301,Moved Permanently,Static 1-52,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,20,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347190853,1441,/index.css-1,200,OK,Static 1-52,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,840,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347190889,1422,/index.css,200,OK,Static 1-36,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,20,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347190889,20,/index.css-0,301,Moved Permanently,Static 1-36,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,20,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347190909,1402,/index.css-1,200,OK,Static 1-36,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,921,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347191689,632,/index.css,200,OK,Static 1-45,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347191689,22,/index.css-0,301,Moved Permanently,Static 1-45,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347191711,610,/index.css-1,200,OK,Static 1-45,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,313,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347191148,1458,/index.css,200,OK,Static 1-12,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347191148,22,/index.css-0,301,Moved Permanently,Static 1-12,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347191170,1436,/index.css-1,200,OK,Static 1-12,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,907,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347191174,1439,/index.css,200,OK,Static 1-54,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,23,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347191174,23,/index.css-0,301,Moved Permanently,Static 1-54,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,23,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347191197,1416,/index.css-1,200,OK,Static 1-54,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,886,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188474,4157,/index.js,200,OK,Static 1-26,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,23,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188474,23,/index.js-0,301,Moved Permanently,Static 1-26,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,23,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188497,4134,/index.js-1,200,OK,Static 1-26,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,842,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347191152,1560,/index.css,200,OK,Static 1-49,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347191152,22,/index.css-0,301,Moved Permanently,Static 1-49,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347191174,1538,/index.css-1,200,OK,Static 1-49,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,871,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347190108,2696,/index.css,200,OK,Static 1-21,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347190108,22,/index.css-0,301,Moved Permanently,Static 1-21,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347190130,2674,/index.css-1,200,OK,Static 1-21,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,521,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347191560,1333,/index.css,200,OK,Static 1-34,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,23,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347191560,23,/index.css-0,301,Moved Permanently,Static 1-34,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,23,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347191583,1310,/index.css-1,200,OK,Static 1-34,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,889,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188865,4075,/index.js,200,OK,Static 1-47,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188865,22,/index.js-0,301,Moved Permanently,Static 1-47,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188887,4053,/index.js-1,200,OK,Static 1-47,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,2795,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347191010,1971,/index.css,200,OK,Static 1-41,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,20,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347191010,20,/index.css-0,301,Moved Permanently,Static 1-41,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,20,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347191030,1951,/index.css-1,200,OK,Static 1-41,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,439,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347191153,1877,/index.css,200,OK,Static 1-50,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347191153,22,/index.css-0,301,Moved Permanently,Static 1-50,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347191175,1855,/index.css-1,200,OK,Static 1-50,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,933,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188277,4775,/index.js,200,OK,Static 1-16,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188277,22,/index.js-0,301,Moved Permanently,Static 1-16,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188299,4753,/index.js-1,200,OK,Static 1-16,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,835,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188436,4748,/index.js,200,OK,Static 1-24,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188436,22,/index.js-0,301,Moved Permanently,Static 1-24,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188458,4726,/index.js-1,200,OK,Static 1-24,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,840,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347190850,2379,/index.css,200,OK,Static 1-28,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,23,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347190850,23,/index.css-0,301,Moved Permanently,Static 1-28,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,23,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347190873,2356,/index.css-1,200,OK,Static 1-28,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,965,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347191554,1711,/index.css,200,OK,Static 1-53,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,21,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347191554,21,/index.css-0,301,Moved Permanently,Static 1-53,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,21,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347191575,1690,/index.css-1,200,OK,Static 1-53,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,911,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188250,5071,/index.js,200,OK,Static 1-14,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188250,22,/index.js-0,301,Moved Permanently,Static 1-14,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188272,5049,/index.js-1,200,OK,Static 1-14,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,840,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188409,5007,/index.js,200,OK,Static 1-23,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,20,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188409,20,/index.js-0,301,Moved Permanently,Static 1-23,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,20,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188429,4987,/index.js-1,200,OK,Static 1-23,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,835,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347193185,600,/index.css,200,OK,Static 1-24,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347193185,22,/index.css-0,301,Moved Permanently,Static 1-24,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347193207,578,/index.css-1,200,OK,Static 1-24,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,295,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188710,5159,/index.js,200,OK,Static 1-39,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,18,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188710,18,/index.js-0,301,Moved Permanently,Static 1-39,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,18,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188729,5140,/index.js-1,200,OK,Static 1-39,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,4576,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188531,5345,/index.js,200,OK,Static 1-51,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,20,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188531,20,/index.js-0,301,Moved Permanently,Static 1-51,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,20,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188551,5325,/index.js-1,200,OK,Static 1-51,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,860,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188698,5196,/index.js,200,OK,Static 1-38,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,23,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188698,23,/index.js-0,301,Moved Permanently,Static 1-38,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,23,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188721,5173,/index.js-1,200,OK,Static 1-38,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,4562,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188805,5136,/index.js,200,OK,Static 1-44,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,23,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188805,23,/index.js-0,301,Moved Permanently,Static 1-44,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,23,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188828,5113,/index.js-1,200,OK,Static 1-44,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,4495,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347192940,1048,/index.css,200,OK,Static 1-47,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,39,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188725,5238,/index.js,200,OK,Static 1-40,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347192940,39,/index.css-0,301,Moved Permanently,Static 1-47,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,39,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188725,22,/index.js-0,301,Moved Permanently,Static 1-40,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347192979,1009,/index.css-1,200,OK,Static 1-47,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,542,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188747,5216,/index.js-1,200,OK,Static 1-40,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,4700,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188645,5366,/index.js,200,OK,Static 1-55,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188645,22,/index.js-0,301,Moved Permanently,Static 1-55,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188667,5344,/index.js-1,200,OK,Static 1-55,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,4553,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347189382,4746,/index.css,200,OK,Static 1-7,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,21,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347189382,21,/index.css-0,301,Moved Permanently,Static 1-7,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,21,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347189403,4725,/index.css-1,200,OK,Static 1-7,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,840,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347190457,3714,/index.css,200,OK,Static 1-25,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,270,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347190457,270,/index.css-0,301,Moved Permanently,Static 1-25,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,270,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347190728,3443,/index.css-1,200,OK,Static 1-25,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,898,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347192631,1586,/index.css,200,OK,Static 1-26,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347192631,22,/index.css-0,301,Moved Permanently,Static 1-26,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347192653,1564,/index.css-1,200,OK,Static 1-26,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,980,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347191417,2872,/index.css,200,OK,Static 1-29,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347191417,22,/index.css-0,301,Moved Permanently,Static 1-29,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347191439,2850,/index.css-1,200,OK,Static 1-29,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,388,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347191961,2447,/index.css,200,OK,Static 1-37,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,1022,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347191961,1022,/index.css-0,301,Moved Permanently,Static 1-37,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,1022,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347192983,1425,/index.css-1,200,OK,Static 1-37,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,875,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347193053,1425,/index.css,200,OK,Static 1-16,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347193869,602,/index.css,200,OK,Static 1-39,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,20,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347193053,22,/index.css-0,301,Moved Permanently,Static 1-16,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347193075,1403,/index.css-1,200,OK,Static 1-16,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,860,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347193869,20,/index.css-0,301,Moved Permanently,Static 1-39,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,20,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347193889,582,/index.css-1,200,OK,Static 1-39,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,266,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188846,5735,/index.js,200,OK,Static 1-46,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188846,22,/index.js-0,301,Moved Permanently,Static 1-46,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188868,5713,/index.js-1,200,OK,Static 1-46,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,4538,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347193942,643,/index.css,200,OK,Static 1-44,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,27,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347193942,27,/index.css-0,301,Moved Permanently,Static 1-44,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,27,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347193969,616,/index.css-1,200,OK,Static 1-44,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,312,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347193321,1404,/index.css,200,OK,Static 1-14,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,32,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347193321,33,/index.css-0,301,Moved Permanently,Static 1-14,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,32,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347193354,1371,/index.css-1,200,OK,Static 1-14,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,913,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347193416,1492,/index.css,200,OK,Static 1-23,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,30,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347193416,30,/index.css-0,301,Moved Permanently,Static 1-23,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,30,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347193446,1462,/index.css-1,200,OK,Static 1-23,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,860,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347194582,508,/index.css,200,OK,Static 1-46,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,29,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347194582,29,/index.css-0,301,Moved Permanently,Static 1-46,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,29,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347194612,478,/index.css-1,200,OK,Static 1-46,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,266,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188494,6723,/index.js,200,OK,Static 1-27,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188494,22,/index.js-0,301,Moved Permanently,Static 1-27,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188516,6701,/index.js-1,200,OK,Static 1-27,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,839,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347193990,1423,/index.css,200,OK,Static 1-40,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,38,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347193990,38,/index.css-0,301,Moved Permanently,Static 1-40,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,38,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347194028,1385,/index.css-1,200,OK,Static 1-40,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,847,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347193894,1615,/index.css,200,OK,Static 1-38,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,271,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347193894,271,/index.css-0,301,Moved Permanently,Static 1-38,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,271,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347194165,1344,/index.css-1,200,OK,Static 1-38,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,863,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347193876,2100,/index.css,200,OK,Static 1-51,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,29,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347193876,29,/index.css-0,301,Moved Permanently,Static 1-51,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,29,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347193905,2071,/index.css-1,200,OK,Static 1-51,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,916,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347194011,1970,/index.css,200,OK,Static 1-55,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,32,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347194011,32,/index.css-0,301,Moved Permanently,Static 1-55,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,32,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347194043,1938,/index.css-1,200,OK,Static 1-55,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,896,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347193266,3151,/image3.jpg,200,OK,Static 1-53,bin,true,,345890,151,55,55,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,434,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,210
+1688347194129,2367,/image3.jpg,200,OK,Static 1-7,bin,true,,345890,151,55,55,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,434,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,211
+1688347196418,638,/image2.jpg,200,OK,Static 1-53,bin,true,,66928,151,55,55,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,219,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188290,8826,/index.js,200,OK,Static 1-2,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,21,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188290,21,/index.js-0,301,Moved Permanently,Static 1-2,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,21,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188311,8805,/index.js-1,200,OK,Static 1-2,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,840,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188328,8825,/index.js,200,OK,Static 1-18,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,21,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188328,21,/index.js-0,301,Moved Permanently,Static 1-18,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,21,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188349,8804,/index.js-1,200,OK,Static 1-18,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,842,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188198,8961,/index.js,200,OK,Static 1-11,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188198,22,/index.js-0,301,Moved Permanently,Static 1-11,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188220,8939,/index.js-1,200,OK,Static 1-11,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,840,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188272,8891,/index.js,200,OK,Static 1-15,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188272,22,/index.js-0,301,Moved Permanently,Static 1-15,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188294,8869,/index.js-1,200,OK,Static 1-15,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,843,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188301,8968,/index.js,200,OK,Static 1-17,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,20,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188301,20,/index.js-0,301,Moved Permanently,Static 1-17,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,20,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188321,8948,/index.js-1,200,OK,Static 1-17,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,841,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188790,8491,/index.js,200,OK,Static 1-43,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188790,22,/index.js-0,301,Moved Permanently,Static 1-43,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188812,8469,/index.js-1,200,OK,Static 1-43,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,909,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188574,8737,/index.js,200,OK,Static 1-31,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,23,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188574,23,/index.js-0,301,Moved Permanently,Static 1-31,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,23,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188597,8714,/index.js-1,200,OK,Static 1-31,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,848,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188601,8816,/index.js,200,OK,Static 1-33,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,21,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188601,21,/index.js-0,301,Moved Permanently,Static 1-33,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,21,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188622,8795,/index.js-1,200,OK,Static 1-33,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,1311,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347195414,2099,/image3.jpg,200,OK,Static 1-40,bin,true,,345890,151,55,55,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,433,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,210
+1688347197056,640,/image1.jpg,200,OK,Static 1-53,bin,true,,72517,151,55,55,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,221,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347195091,2674,/image3.jpg,200,OK,Static 1-46,bin,true,,345890,151,54,54,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,424,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,206
+1688347196514,1267,/image2.jpg,200,OK,Static 1-7,bin,true,,66928,151,54,54,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,218,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347197529,426,/image2.jpg,200,OK,Static 1-40,bin,true,,66928,151,54,54,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,218,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347192312,5860,/image3.jpg,200,OK,Static 1-36,bin,true,,345890,151,54,54,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,425,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,205
+1688347197764,421,/image2.jpg,200,OK,Static 1-46,bin,true,,66928,151,54,54,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,217,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347194290,3959,/image3.jpg,200,OK,Static 1-29,bin,true,,345890,151,54,54,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,425,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,205
+1688347195510,2772,/image3.jpg,200,OK,Static 1-38,bin,true,,345890,151,54,54,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,433,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,211
+1688347197956,432,/image1.jpg,200,OK,Static 1-40,bin,true,,72517,151,54,54,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,224,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347197159,1428,/index.css,200,OK,Static 1-11,text,true,,196785,328,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,24,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347197159,24,/index.css-0,301,Moved Permanently,Static 1-11,text,true,,609,164,53,53,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,24,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347197182,1405,/index.css-1,200,OK,Static 1-11,text,true,,196176,164,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,865,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347197154,1505,/index.css,200,OK,Static 1-18,text,true,,196785,328,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,27,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347197154,27,/index.css-0,301,Moved Permanently,Static 1-18,text,true,,609,164,53,53,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,27,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347197180,1479,/index.css-1,200,OK,Static 1-18,text,true,,196176,164,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,873,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347197162,1505,/index.css,200,OK,Static 1-15,text,true,,196785,328,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,35,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347197162,35,/index.css-0,301,Moved Permanently,Static 1-15,text,true,,609,164,53,53,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,35,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347197197,1470,/index.css-1,200,OK,Static 1-15,text,true,,196176,164,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,884,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347197417,1335,/index.css,200,OK,Static 1-33,text,true,,196785,328,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347197417,22,/index.css-0,301,Moved Permanently,Static 1-33,text,true,,609,164,53,53,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347197439,1313,/index.css-1,200,OK,Static 1-33,text,true,,196176,164,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,854,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347197310,1499,/index.css,200,OK,Static 1-31,text,true,,196785,328,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,25,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347197310,25,/index.css-0,301,Moved Permanently,Static 1-31,text,true,,609,164,53,53,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,25,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347197335,1474,/index.css-1,200,OK,Static 1-31,text,true,,196176,164,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,850,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347197116,1727,/index.css,200,OK,Static 1-2,text,true,,196785,328,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,36,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347197116,36,/index.css-0,301,Moved Permanently,Static 1-2,text,true,,609,164,53,53,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,36,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347197152,1691,/index.css-1,200,OK,Static 1-2,text,true,,196176,164,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,858,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347197268,1672,/index.css,200,OK,Static 1-17,text,true,,196785,328,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,34,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347197268,34,/index.css-0,301,Moved Permanently,Static 1-17,text,true,,609,164,53,53,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,34,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347197302,1638,/index.css-1,200,OK,Static 1-17,text,true,,196176,164,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,843,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347197280,1669,/index.css,200,OK,Static 1-43,text,true,,196785,328,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,24,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347197280,24,/index.css-0,301,Moved Permanently,Static 1-43,text,true,,609,164,53,53,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,24,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347197304,1645,/index.css-1,200,OK,Static 1-43,text,true,,196176,164,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,844,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347194409,4701,/image3.jpg,200,OK,Static 1-37,bin,true,,345890,151,53,53,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,430,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,210
+1688347198185,1073,/image1.jpg,200,OK,Static 1-46,bin,true,,72517,151,53,53,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,255,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347194497,4804,/image3.jpg,200,OK,Static 1-39,bin,true,,345890,151,52,52,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,427,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,207
+1688347194218,5382,/image3.jpg,200,OK,Static 1-26,bin,true,,345890,151,52,52,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,421,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,200
+1688347197780,1916,/image1.jpg,200,OK,Static 1-7,bin,true,,72517,151,52,52,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,224,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347194497,5231,/image3.jpg,200,OK,Static 1-16,bin,true,,345890,151,51,51,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,402,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,196
+1688347193230,6503,/image3.jpg,200,OK,Static 1-28,bin,true,,345890,151,51,51,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,596,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,196
+1688347199110,639,/image2.jpg,200,OK,Static 1-37,bin,true,,66928,151,51,51,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,219,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347192322,7629,/image3.jpg,200,OK,Static 1-45,bin,true,,345890,151,51,51,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,428,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,195
+1688347192109,7901,/image3.jpg,200,OK,Static 1-13,bin,true,,345890,151,51,51,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,439,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,204
+1688347192805,7319,/image3.jpg,200,OK,Static 1-21,bin,true,,345890,151,51,51,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,445,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,211
+1688347198248,1896,/image2.jpg,200,OK,Static 1-29,bin,true,,66928,151,51,51,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,1079,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347199728,597,/image2.jpg,200,OK,Static 1-16,bin,true,,66928,151,51,51,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,207,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347199300,1045,/image2.jpg,200,OK,Static 1-39,bin,true,,66928,151,51,51,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,219,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347194726,5706,/image3.jpg,200,OK,Static 1-14,bin,true,,345890,151,51,51,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,409,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,198
+1688347192606,7907,/image3.jpg,200,OK,Static 1-12,bin,true,,345890,151,51,51,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,440,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,208
+1688347198667,1910,/image3.jpg,200,OK,Static 1-15,bin,true,,345890,151,51,51,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,439,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,211
+1688347198281,2322,/image2.jpg,200,OK,Static 1-38,bin,true,,66928,151,51,51,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,223,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347191961,8733,/image3.jpg,200,OK,Static 1-32,bin,true,,345890,151,51,51,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,419,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,196
+1688347198950,1766,/image3.jpg,200,OK,Static 1-43,bin,true,,345890,151,51,51,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,403,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,195
+1688347200144,675,/image1.jpg,200,OK,Static 1-29,bin,true,,72517,151,51,51,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,267,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347199749,1074,/image1.jpg,200,OK,Static 1-37,bin,true,,72517,151,50,50,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,237,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347198171,2671,/image2.jpg,200,OK,Static 1-36,bin,true,,66928,151,49,49,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,218,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347199732,1126,/image2.jpg,200,OK,Static 1-28,bin,true,,66928,151,49,49,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,205,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347190873,10005,/image3.jpg,200,OK,Static 1-30,bin,true,,345890,151,49,49,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,440,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,206
+1688347194585,6341,/image3.jpg,200,OK,Static 1-44,bin,true,,345890,151,49,49,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,409,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,197
+1688347200326,616,/image1.jpg,200,OK,Static 1-16,bin,true,,72517,151,49,49,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,226,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347200577,432,/image2.jpg,200,OK,Static 1-15,bin,true,,66928,151,48,48,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,222,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347199600,1409,/image2.jpg,200,OK,Static 1-26,bin,true,,66928,151,48,48,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,210,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347193031,8081,/image3.jpg,200,OK,Static 1-50,bin,true,,345890,151,48,48,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,842,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,206
+1688347200716,405,/image2.jpg,200,OK,Static 1-43,bin,true,,66928,151,48,48,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,210,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347192614,8538,/image3.jpg,200,OK,Static 1-54,bin,true,,345890,151,48,48,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,402,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,195
+1688347200604,645,/image1.jpg,200,OK,Static 1-38,bin,true,,72517,151,48,48,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,224,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347198660,2597,/image3.jpg,200,OK,Static 1-18,bin,true,,345890,151,47,47,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,400,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,195
+1688347200123,1154,/image2.jpg,200,OK,Static 1-21,bin,true,,66928,151,47,47,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,222,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347199950,1371,/image2.jpg,200,OK,Static 1-45,bin,true,,66928,151,47,47,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,206,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347198810,2611,/image3.jpg,200,OK,Static 1-31,bin,true,,345890,151,47,47,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,412,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,201
+1688347200432,1000,/image2.jpg,200,OK,Static 1-14,bin,true,,66928,151,47,47,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,208,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347200010,1428,/image2.jpg,200,OK,Static 1-13,bin,true,,66928,151,47,47,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,213,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347201009,434,/image1.jpg,200,OK,Static 1-15,bin,true,,72517,151,47,47,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,224,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347200345,1138,/image1.jpg,200,OK,Static 1-39,bin,true,,72517,151,46,46,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,219,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347201121,405,/image1.jpg,200,OK,Static 1-43,bin,true,,72517,151,45,45,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,210,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347198753,2790,/image3.jpg,200,OK,Static 1-33,bin,true,,345890,151,44,44,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,431,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,210
+1688347200512,1047,/image2.jpg,200,OK,Static 1-12,bin,true,,66928,151,44,44,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,221,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347192196,9479,/image3.jpg,200,OK,Static 1-48,bin,true,,345890,151,44,44,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,447,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,215
+1688347198843,2991,/image3.jpg,200,OK,Static 1-2,bin,true,,345890,151,44,44,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,402,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,196
+1688347201421,414,/image2.jpg,200,OK,Static 1-31,bin,true,,66928,151,44,44,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,214,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347201257,600,/image2.jpg,200,OK,Static 1-18,bin,true,,66928,151,44,44,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,211,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347200693,1180,/image2.jpg,200,OK,Static 1-32,bin,true,,66928,151,44,44,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,209,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347198588,3378,/image3.jpg,200,OK,Static 1-11,bin,true,,345890,151,44,44,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,418,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,197
+1688347201544,429,/image2.jpg,200,OK,Static 1-33,bin,true,,66928,151,44,44,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,219,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347191993,10045,/image3.jpg,200,OK,Static 1-5,bin,true,,345890,151,44,44,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,438,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,213
+1688347198941,3140,/image3.jpg,200,OK,Static 1-17,bin,true,,345890,151,44,44,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,424,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,205
+1688347200858,1192,/image1.jpg,200,OK,Static 1-28,bin,true,,72517,151,44,44,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,216,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347200926,1183,/image2.jpg,200,OK,Static 1-44,bin,true,,66928,151,43,43,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,208,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347200877,1241,/image2.jpg,200,OK,Static 1-30,bin,true,,66928,151,43,43,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,219,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347192294,9855,/image3.jpg,200,OK,Static 1-52,bin,true,,345890,151,43,43,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,442,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,215
+1688347201151,1000,/image2.jpg,200,OK,Static 1-54,bin,true,,66928,151,43,43,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,219,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347194172,7994,/image3.jpg,200,OK,Static 1-25,bin,true,,345890,151,43,43,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,417,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,196
+1688347201009,1212,/image1.jpg,200,OK,Static 1-26,bin,true,,72517,151,43,43,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,213,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347201433,819,/image1.jpg,200,OK,Static 1-14,bin,true,,72517,151,42,42,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,223,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347201834,438,/image2.jpg,200,OK,Static 1-2,bin,true,,66928,151,41,41,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,243,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347201277,1068,/image1.jpg,200,OK,Static 1-21,bin,true,,72517,151,41,41,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,232,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347201836,613,/image1.jpg,200,OK,Static 1-31,bin,true,,72517,151,40,40,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,213,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347201857,594,/image1.jpg,200,OK,Static 1-18,bin,true,,72517,151,39,39,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,206,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347201120,1336,/image2.jpg,200,OK,Static 1-50,bin,true,,66928,151,38,38,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,217,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347201438,1030,/image1.jpg,200,OK,Static 1-13,bin,true,,72517,151,38,38,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,219,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347200842,1690,/image1.jpg,200,OK,Static 1-36,bin,true,,72517,151,37,37,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,221,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347191602,10969,/image3.jpg,200,OK,Static 1-35,bin,true,,345890,151,36,36,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,400,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,195
+1688347193786,8790,/image3.jpg,200,OK,Static 1-24,bin,true,,345890,151,36,36,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,416,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,201
+1688347201559,1050,/image1.jpg,200,OK,Static 1-12,bin,true,,72517,151,36,36,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,225,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347201973,646,/image1.jpg,200,OK,Static 1-33,bin,true,,72517,151,36,36,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,227,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347202273,436,/image1.jpg,200,OK,Static 1-2,bin,true,,72517,151,34,34,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,241,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347202086,629,/image2.jpg,200,OK,Static 1-17,bin,true,,66928,151,33,33,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,220,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347201322,1403,/image1.jpg,200,OK,Static 1-45,bin,true,,72517,151,33,33,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,236,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347201675,1081,/image2.jpg,200,OK,Static 1-48,bin,true,,66928,151,32,32,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,224,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347201966,798,/image2.jpg,200,OK,Static 1-11,bin,true,,66928,151,32,32,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,208,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347201873,1036,/image1.jpg,200,OK,Static 1-32,bin,true,,72517,151,32,32,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,206,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347192981,9947,/image3.jpg,200,OK,Static 1-41,bin,true,,345890,151,31,31,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,424,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,206
+1688347202151,794,/image1.jpg,200,OK,Static 1-54,bin,true,,72517,151,31,31,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,208,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347190747,12351,/image3.jpg,200,OK,Static 1-3,bin,true,,345890,151,30,30,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,430,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,201
+1688347202109,989,/image1.jpg,200,OK,Static 1-44,bin,true,,72517,151,30,30,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,209,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347202118,1036,/image1.jpg,200,OK,Static 1-30,bin,true,,72517,151,29,29,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,218,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347202148,1075,/image2.jpg,200,OK,Static 1-52,bin,true,,66928,151,28,28,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,223,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347191100,12206,/image3.jpg,200,OK,Static 1-8,bin,true,,345890,151,28,28,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,432,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,201
+1688347202717,666,/image1.jpg,200,OK,Static 1-17,bin,true,,72517,151,28,28,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,257,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347202576,813,/image2.jpg,200,OK,Static 1-24,bin,true,,66928,151,27,27,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,213,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347190791,12627,/image3.jpg,200,OK,Static 1-1,bin,true,,345890,151,27,27,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,3170,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,210
+1688347202166,1388,/image2.jpg,200,OK,Static 1-25,bin,true,,66928,151,27,27,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,211,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347202765,800,/image1.jpg,200,OK,Static 1-11,bin,true,,72517,151,27,27,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,211,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347202572,1175,/image2.jpg,200,OK,Static 1-35,bin,true,,66928,151,26,26,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,204,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347190989,12821,/image3.jpg,200,OK,Static 1-10,bin,true,,345890,151,26,26,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,1347,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,210
+1688347202757,1083,/image1.jpg,200,OK,Static 1-48,bin,true,,72517,151,26,26,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,226,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347202928,944,/image2.jpg,200,OK,Static 1-41,bin,true,,66928,151,25,25,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,233,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347195976,7973,/image3.jpg,200,OK,Static 1-51,bin,true,,345890,151,25,25,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,423,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,206
+1688347202038,1926,/image2.jpg,200,OK,Static 1-5,bin,true,,66928,151,25,25,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,226,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347202457,1537,/image1.jpg,200,OK,Static 1-50,bin,true,,72517,151,25,25,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,217,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347191627,12408,/image3.jpg,200,OK,Static 1-20,bin,true,,345890,151,24,24,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,663,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,214
+1688347191266,12770,/image3.jpg,200,OK,Static 1-4,bin,true,,345890,151,24,24,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,420,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,205
+1688347203306,810,/image2.jpg,200,OK,Static 1-8,bin,true,,66928,151,24,24,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,212,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347203390,841,/image1.jpg,200,OK,Static 1-24,bin,true,,72517,151,24,24,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,241,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347203419,845,/image2.jpg,200,OK,Static 1-1,bin,true,,66928,151,23,23,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,218,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347203224,1075,/image1.jpg,200,OK,Static 1-52,bin,true,,72517,151,23,23,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,224,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347203098,1204,/image2.jpg,200,OK,Static 1-3,bin,true,,66928,151,22,22,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,209,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347203872,832,/image1.jpg,200,OK,Static 1-41,bin,true,,72517,151,22,22,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,219,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347190950,13762,/image3.jpg,200,OK,Static 1-19,bin,true,,345890,151,21,21,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,2673,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,200
+1688347191888,12842,/image3.jpg,200,OK,Static 1-9,bin,true,,345890,151,21,21,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,446,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,212
+1688347196009,8774,/image3.jpg,200,OK,Static 1-55,bin,true,,345890,151,21,21,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,2164,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,213
+1688347203554,1284,/image1.jpg,200,OK,Static 1-25,bin,true,,72517,151,21,21,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,209,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347204037,827,/image2.jpg,200,OK,Static 1-4,bin,true,,66928,151,20,20,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,215,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347194909,9972,/image3.jpg,200,OK,Static 1-23,bin,true,,345890,151,20,20,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,1113,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,209
+1688347204264,640,/image1.jpg,200,OK,Static 1-1,bin,true,,72517,151,20,20,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,221,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347203748,1176,/image1.jpg,200,OK,Static 1-35,bin,true,,72517,151,19,19,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,205,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347204116,811,/image1.jpg,200,OK,Static 1-8,bin,true,,72517,151,18,18,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,212,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347192713,12221,/image3.jpg,200,OK,Static 1-49,bin,true,,345890,151,17,17,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,440,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,213
+1688347203811,1265,/image2.jpg,200,OK,Static 1-10,bin,true,,66928,151,17,17,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,220,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347193991,11117,/image3.jpg,200,OK,Static 1-47,bin,true,,345890,151,17,17,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,673,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,215
+1688347204035,1070,/image2.jpg,200,OK,Static 1-20,bin,true,,66928,151,17,17,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,222,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347203949,1238,/image2.jpg,200,OK,Static 1-51,bin,true,,66928,151,17,17,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,216,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347192894,12334,/image3.jpg,200,OK,Static 1-34,bin,true,,345890,151,17,17,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,1159,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,195
+1688347203965,1288,/image1.jpg,200,OK,Static 1-5,bin,true,,72517,151,17,17,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,225,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347204302,1011,/image1.jpg,200,OK,Static 1-3,bin,true,,72517,151,16,16,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,214,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347204712,612,/image2.jpg,200,OK,Static 1-19,bin,true,,66928,151,15,15,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,212,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347204934,438,/image2.jpg,200,OK,Static 1-49,bin,true,,66928,151,15,15,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,224,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347195218,10214,/index.css,200,OK,Static 1-27,text,true,,196785,328,15,15,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,33,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347195218,33,/index.css-0,301,Moved Permanently,Static 1-27,text,true,,609,164,15,15,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,33,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347195251,10181,/index.css-1,200,OK,Static 1-27,text,true,,196176,164,15,15,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,1711,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347204783,651,/image2.jpg,200,OK,Static 1-55,bin,true,,66928,151,15,15,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,227,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347191169,14323,/image3.jpg,200,OK,Static 1-6,bin,true,,345890,151,15,15,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,494,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,203
+1688347204731,853,/image2.jpg,200,OK,Static 1-9,bin,true,,66928,151,15,15,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,222,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347204865,828,/image1.jpg,200,OK,Static 1-4,bin,true,,72517,151,15,15,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,215,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347204881,845,/image2.jpg,200,OK,Static 1-23,bin,true,,66928,151,14,14,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,220,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347205324,434,/image1.jpg,200,OK,Static 1-19,bin,true,,72517,151,14,14,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,233,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347205372,473,/image1.jpg,200,OK,Static 1-49,bin,true,,72517,151,13,13,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,259,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347205229,641,/image2.jpg,200,OK,Static 1-34,bin,true,,66928,151,12,12,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,206,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347205136,911,/image1.jpg,200,OK,Static 1-20,bin,true,,72517,151,12,12,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,224,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347205434,657,/image1.jpg,200,OK,Static 1-55,bin,true,,72517,151,11,11,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,233,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347190715,15380,/image3.jpg,200,OK,Static 1-42,bin,true,,345890,151,10,10,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,434,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,209
+1688347205076,1065,/image1.jpg,200,OK,Static 1-10,bin,true,,72517,151,10,10,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,228,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347205136,1082,/image2.jpg,200,OK,Static 1-47,bin,true,,66928,151,9,9,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,224,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347205187,1036,/image1.jpg,200,OK,Static 1-51,bin,true,,72517,151,9,9,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,218,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347205492,826,/image2.jpg,200,OK,Static 1-6,bin,true,,66928,151,8,8,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,218,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347205727,640,/image1.jpg,200,OK,Static 1-23,bin,true,,72517,151,8,8,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,223,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347205584,854,/image1.jpg,200,OK,Static 1-9,bin,true,,72517,151,7,7,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,223,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347205870,610,/image1.jpg,200,OK,Static 1-34,bin,true,,72517,151,6,6,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,209,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347206095,613,/image2.jpg,200,OK,Static 1-42,bin,true,,66928,151,5,5,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,215,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347206218,673,/image1.jpg,200,OK,Static 1-47,bin,true,,72517,151,5,5,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,227,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347206709,420,/image1.jpg,200,OK,Static 1-42,bin,true,,72517,151,4,4,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,220,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347206319,832,/image1.jpg,200,OK,Static 1-6,bin,true,,72517,151,3,3,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,225,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347205433,3841,/image3.jpg,200,OK,Static 1-27,bin,true,,345890,151,2,2,http://my-react-app-assets.s3.amazonaws.com/image3.jpg,,434,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,210
+1688347209275,428,/image2.jpg,200,OK,Static 1-27,bin,true,,66928,151,2,2,http://my-react-app-assets.s3.amazonaws.com/image2.jpg,,219,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347209730,429,/image1.jpg,200,OK,Static 1-27,bin,true,,72517,151,2,2,http://my-react-app-assets.s3.amazonaws.com/image1.jpg,,220,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188401,29228,/index.js,200,OK,Static 1-22,text,true,,162225,326,1,1,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347188401,22,/index.js-0,301,Moved Permanently,Static 1-22,text,true,,608,163,1,1,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,22,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347188423,29206,/index.js-1,200,OK,Static 1-22,text,true,,161617,163,1,1,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,,844,UTF-8,1,0,DESKTOP-JMD9GU4,0,0
+1688347217629,128865,/index.css,Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 195,432; received: 138,778)",Static 1-22,text,false,,2438,164,1,1,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,28,UTF-8,1,1,DESKTOP-JMD9GU4,0,0
+1688347217629,29,/index.css-0,301,Moved Permanently,Static 1-22,text,true,,609,164,1,1,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,28,ISO-8859-1,1,0,DESKTOP-JMD9GU4,0,0
+1688347217658,128836,/index.css-1,Non HTTP response code: org.apache.http.ConnectionClosedException,"Non HTTP response message: Premature end of Content-Length delimited message body (expected: 195,432; received: 138,778)",Static 1-22,text,false,,1829,0,1,1,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,,14663,UTF-8,1,1,DESKTOP-JMD9GU4,0,0

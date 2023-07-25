@@ -1,0 +1,826 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1688501165946,473,Create User,200,OK,DB 1-18,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,473,0,160
+1688501165667,753,Create User,200,OK,DB 1-3,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,753,0,429
+1688501166039,437,Create User,200,OK,DB 1-23,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,437,0,161
+1688501166056,471,Create User,200,OK,DB 1-24,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,471,0,161
+1688501166093,438,Create User,200,OK,DB 1-26,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,438,0,162
+1688501166186,442,Create User,200,OK,DB 1-31,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,442,0,159
+1688501165630,1151,Create User,200,OK,DB 1-1,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,1151,0,459
+1688501165871,924,Create User,200,OK,DB 1-14,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,924,0,219
+1688501165649,1198,Create User,200,OK,DB 1-2,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,1198,0,446
+1688501165982,885,Create User,200,OK,DB 1-20,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,885,0,161
+1688501166389,483,Create User,200,OK,DB 1-42,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,483,0,164
+1688501165889,987,Create User,200,OK,DB 1-15,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,987,0,204
+1688501165836,1046,Create User,200,OK,DB 1-12,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,1046,0,258
+1688501165779,1103,Create User,200,OK,DB 1-9,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,1103,0,314
+1688501165687,1196,Create User,200,OK,DB 1-4,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,1196,0,406
+1688501165927,956,Create User,200,OK,DB 1-17,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,956,0,165
+1688501165798,1088,Create User,200,OK,DB 1-10,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,1088,0,295
+1688501165818,1070,Create User,200,OK,DB 1-11,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,1070,0,273
+1688501165761,1130,Create User,200,OK,DB 1-8,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,1130,0,335
+1688501166463,440,Create User,200,OK,DB 1-46,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,439,0,162
+1688501165907,996,Create User,200,OK,DB 1-16,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,996,0,186
+1688501166075,856,Create User,200,OK,DB 1-25,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,856,0,159
+1688501166110,837,Create User,200,OK,DB 1-27,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,837,0,161
+1688501165854,1100,Create User,200,OK,DB 1-13,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,1100,0,241
+1688501165724,1232,Create User,200,OK,DB 1-6,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,1232,0,372
+1688501165706,1254,Create User,200,OK,DB 1-5,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,1254,0,390
+1688501166130,834,Create User,200,OK,DB 1-28,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,834,0,160
+1688501166519,446,Create User,200,OK,DB 1-49,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,446,0,162
+1688501166149,831,Create User,200,OK,DB 1-29,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,831,0,160
+1688501165964,1029,Create User,200,OK,DB 1-19,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,1029,0,160
+1688501165742,1256,Create User,200,OK,DB 1-7,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,1256,0,351
+1688501166168,839,Create User,200,OK,DB 1-30,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,839,0,160
+1688501166555,452,Create User,200,OK,DB 1-51,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,452,0,161
+1688501166001,1013,Create User,200,OK,DB 1-21,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,1013,0,161
+1688501166205,849,Create User,200,OK,DB 1-32,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,849,0,161
+1688501166729,327,Create Magazine,200,OK,DB 1-18,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,327,0,0
+1688501166611,446,Create User,200,OK,DB 1-54,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,446,0,163
+1688501166018,1046,Create User,200,OK,DB 1-22,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,1046,0,161
+1688501166241,825,Create User,200,OK,DB 1-34,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,825,0,160
+1688501166635,432,Create User,200,OK,DB 1-55,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,432,0,158
+1688501166223,863,Create User,200,OK,DB 1-33,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,863,0,160
+1688501166260,832,Create User,200,OK,DB 1-35,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,832,0,162
+1688501166278,834,Create User,200,OK,DB 1-36,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,834,0,158
+1688501166295,832,Create User,200,OK,DB 1-37,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,832,0,161
+1688501166315,835,Create User,200,OK,DB 1-38,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,835,0,158
+1688501166333,833,Create User,200,OK,DB 1-39,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,833,0,160
+1688501166351,832,Create User,200,OK,DB 1-40,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,832,0,161
+1688501166370,827,Create User,200,OK,DB 1-41,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,827,0,161
+1688501166407,832,Create User,200,OK,DB 1-43,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,831,0,160
+1688501166935,312,Create Magazine,200,OK,DB 1-31,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,312,0,0
+1688501166444,829,Create User,200,OK,DB 1-45,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,829,0,165
+1688501166426,857,Create User,200,OK,DB 1-44,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,857,0,162
+1688501166481,828,Create User,200,OK,DB 1-47,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,828,0,159
+1688501166500,833,Create User,200,OK,DB 1-48,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,833,0,159
+1688501166537,827,Create User,200,OK,DB 1-50,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,827,0,160
+1688501166574,838,Create User,200,OK,DB 1-52,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,838,0,161
+1688501166592,833,Create User,200,OK,DB 1-53,text,true,,659,416,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_user,833,0,162
+1688501166729,709,Create Magazine,200,OK,DB 1-3,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,709,0,0
+1688501167153,305,Create Magazine,200,OK,DB 1-2,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,305,0,0
+1688501167184,309,Create Magazine,200,OK,DB 1-42,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,309,0,0
+1688501166777,717,Create Magazine,200,OK,DB 1-23,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,717,0,0
+1688501167200,310,Create Magazine,200,OK,DB 1-10,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,310,0,0
+1688501166839,707,Create Magazine,200,OK,DB 1-24,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,707,0,0
+1688501166839,710,Create Magazine,200,OK,DB 1-26,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,710,0,0
+1688501167262,312,Create Magazine,200,OK,DB 1-6,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,312,0,0
+1688501167324,311,Create Magazine,200,OK,DB 1-21,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,311,0,0
+1688501167184,462,Create Magazine,200,OK,DB 1-9,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,462,0,0
+1688501167386,311,Create Magazine,200,OK,DB 1-33,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,311,0,0
+1688501167090,713,Create Magazine,200,OK,DB 1-1,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,713,0,0
+1688501167106,706,Create Magazine,200,OK,DB 1-14,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,706,0,0
+1688501167168,704,Create Magazine,200,OK,DB 1-20,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,704,0,0
+1688501167184,711,Create Magazine,200,OK,DB 1-4,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,711,0,0
+1688501167184,712,Create Magazine,200,OK,DB 1-15,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,712,0,0
+1688501167184,714,Create Magazine,200,OK,DB 1-17,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,714,0,0
+1688501167184,714,Create Magazine,200,OK,DB 1-12,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,714,0,0
+1688501167200,708,Create Magazine,200,OK,DB 1-11,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,708,0,0
+1688501167589,321,Create Magazine,200,OK,DB 1-44,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,321,0,0
+1688501167200,722,Create Magazine,200,OK,DB 1-8,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,722,0,0
+1688501167216,710,Create Magazine,200,OK,DB 1-46,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,710,0,0
+1688501167216,712,Create Magazine,200,OK,DB 1-16,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,712,0,0
+1688501167636,317,Create Magazine,200,OK,DB 1-48,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,317,0,0
+1688501167247,711,Create Magazine,200,OK,DB 1-27,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,711,0,0
+1688501167262,707,Create Magazine,200,OK,DB 1-13,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,707,0,0
+1688501167262,724,Create Magazine,200,OK,DB 1-5,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,724,0,0
+1688501167278,710,Create Magazine,200,OK,DB 1-49,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,710,0,0
+1688501167278,711,Create Magazine,200,OK,DB 1-28,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,711,0,0
+1688501167232,767,Create Magazine,200,OK,DB 1-25,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,767,0,0
+1688501167293,714,Create Magazine,200,OK,DB 1-29,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,714,0,0
+1688501167308,707,Create Magazine,200,OK,DB 1-51,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,707,0,0
+1688501167308,708,Create Magazine,200,OK,DB 1-7,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,708,0,0
+1688501167308,716,Create Magazine,200,OK,DB 1-19,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,716,0,0
+1688501167308,719,Create Magazine,200,OK,DB 1-30,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,719,0,0
+1688501167731,309,Create Magazine,200,OK,DB 1-53,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,309,0,0
+1688501167356,707,Create Subscription,200,OK,DB 1-18,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,707,0,0
+1688501167356,713,Create Magazine,200,OK,DB 1-32,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,713,0,0
+1688501167371,709,Create Magazine,200,OK,DB 1-22,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,709,0,0
+1688501167371,711,Create Magazine,200,OK,DB 1-34,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,711,0,0
+1688501167371,718,Create Magazine,200,OK,DB 1-54,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,718,0,0
+1688501167371,733,Create Magazine,200,OK,DB 1-55,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,733,0,0
+1688501167402,703,Create Magazine,200,OK,DB 1-35,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,703,0,0
+1688501167418,711,Create Magazine,200,OK,DB 1-36,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,711,0,0
+1688501167434,715,Create Magazine,200,OK,DB 1-37,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,715,0,0
+1688501167481,718,Create Magazine,200,OK,DB 1-39,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,718,0,0
+1688501167496,715,Create Magazine,200,OK,DB 1-40,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,715,0,0
+1688501167450,776,Create Magazine,200,OK,DB 1-38,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,776,0,0
+1688501167512,721,Create Magazine,200,OK,DB 1-41,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,721,0,0
+1688501167558,706,Create Subscription,200,OK,DB 1-31,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,706,0,0
+1688501167574,711,Create Magazine,200,OK,DB 1-45,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,711,0,0
+1688501167542,744,Create Magazine,200,OK,DB 1-43,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,744,0,0
+1688501167620,712,Create Magazine,200,OK,DB 1-47,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,712,0,0
+1688501167668,710,Create Magazine,200,OK,DB 1-50,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,709,0,0
+1688501168105,302,Create Subscription,200,OK,DB 1-1,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,302,0,0
+1688501167716,711,Create Magazine,200,OK,DB 1-52,text,true,,664,356,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_magazine,711,0,0
+1688501167747,720,Create Subscription,200,OK,DB 1-3,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,720,0,0
+1688501167794,699,Create Subscription,200,OK,DB 1-23,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,699,0,0
+1688501168198,304,Create Subscription,200,OK,DB 1-17,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,304,0,0
+1688501168198,306,Create Subscription,200,OK,DB 1-4,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,306,0,0
+1688501167794,713,Create Subscription,200,OK,DB 1-42,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,713,0,0
+1688501168214,298,Create Subscription,200,OK,DB 1-12,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,298,0,0
+1688501168230,300,Create Subscription,200,OK,DB 1-16,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,300,0,0
+1688501167825,705,Create Subscription,200,OK,DB 1-10,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,705,0,0
+1688501168230,308,Create Subscription,200,OK,DB 1-8,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,308,0,0
+1688501168198,344,Create Subscription,200,OK,DB 1-15,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,344,0,0
+1688501167855,699,Create Subscription,200,OK,DB 1-24,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,699,0,0
+1688501168262,304,Create Subscription,200,OK,DB 1-48,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,304,0,0
+1688501167855,710,Create Subscription,200,OK,DB 1-26,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,710,0,0
+1688501168262,303,Create Subscription,200,OK,DB 1-27,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,303,0,0
+1688501168293,302,Create Subscription,200,OK,DB 1-28,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,302,0,0
+1688501168293,314,Create Subscription,200,OK,DB 1-49,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,314,0,0
+1688501168308,303,Create Subscription,200,OK,DB 1-29,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,303,0,0
+1688501167886,731,Create Subscription,200,OK,DB 1-6,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,731,0,0
+1688501168339,307,Create Subscription,200,OK,DB 1-30,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,307,0,0
+1688501167948,700,Create Subscription,200,OK,DB 1-21,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,700,0,0
+1688501167948,708,Create Subscription,200,OK,DB 1-9,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,708,0,0
+1688501167762,894,Create Subscription,200,OK,DB 1-2,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,894,0,0
+1688501168339,331,Create Subscription,200,OK,DB 1-19,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,331,0,0
+1688501168386,319,Create Subscription,200,OK,DB 1-34,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,319,0,0
+1688501168010,704,Create Subscription,200,OK,DB 1-33,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,704,0,0
+1688501168416,299,Create Subscription,200,OK,DB 1-35,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,299,0,0
+1688501168416,303,Create Subscription,200,OK,DB 1-55,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,303,0,0
+1688501168508,303,Create Subscription,200,OK,DB 1-39,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,303,0,0
+1688501168540,306,Create Subscription,200,OK,DB 1-41,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,306,0,0
+1688501168120,757,Create Subscription,200,OK,DB 1-14,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,757,0,0
+1688501168182,701,Create Subscription,200,OK,DB 1-20,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,701,0,0
+1688501168214,699,Create Subscription,200,OK,DB 1-44,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,699,0,0
+1688501168214,701,Create Subscription,200,OK,DB 1-11,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,701,0,0
+1688501168587,340,Create Subscription,200,OK,DB 1-43,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,340,0,0
+1688501168633,301,Create Subscription,200,OK,DB 1-47,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,301,0,0
+1688501168230,708,Create Subscription,200,OK,DB 1-46,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,708,0,0
+1688501168277,699,Create Subscription,200,OK,DB 1-13,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,699,0,0
+1688501168293,704,Create Subscription,200,OK,DB 1-5,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,704,0,0
+1688501168308,709,Create Subscription,200,OK,DB 1-25,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,709,0,0
+1688501168324,704,Create Subscription,200,OK,DB 1-7,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,704,0,0
+1688501168709,332,"Get Subscriptions ""/""",200,OK,DB 1-1,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,44,0,22
+1688501168709,44,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-1,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,44,0,22
+1688501168753,288,"Get Subscriptions ""/""-1",200,OK,DB 1-1,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,288,0,48
+1688501168324,722,Create Subscription,200,OK,DB 1-51,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,722,0,0
+1688501168370,700,Create Subscription,200,OK,DB 1-32,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,700,0,0
+1688501168354,701,Create Subscription,200,OK,DB 1-53,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,701,0,0
+1688501168386,703,Create Subscription,200,OK,DB 1-22,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,703,0,0
+1688501168401,707,Create Subscription,200,OK,DB 1-54,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,707,0,0
+1688501168802,335,"Get Subscriptions ""/""",200,OK,DB 1-17,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,44,0,22
+1688501168802,44,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-17,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,44,0,22
+1688501168846,291,"Get Subscriptions ""/""-1",200,OK,DB 1-17,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,291,0,50
+1688501168431,714,Create Subscription,200,OK,DB 1-36,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,714,0,0
+1688501168463,715,Create Subscription,200,OK,DB 1-37,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,715,0,0
+1688501168540,703,Create Subscription,200,OK,DB 1-38,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,703,0,0
+1688501168524,754,Create Subscription,200,OK,DB 1-40,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,754,0,0
+1688501168587,694,Create Subscription,200,OK,DB 1-45,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,694,0,0
+1688501168679,698,Create Subscription,200,OK,DB 1-50,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,698,0,0
+1688501168571,826,"Get Subscriptions ""/""",200,OK,DB 1-31,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,141,0,121
+1688501168571,141,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-31,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,141,0,121
+1688501168712,685,"Get Subscriptions ""/""-1",200,OK,DB 1-31,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,685,0,48
+1688501168370,1033,"Get Subscriptions ""/""",200,OK,DB 1-18,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,348,0,325
+1688501168370,348,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-18,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,348,0,325
+1688501168718,685,"Get Subscriptions ""/""-1",200,OK,DB 1-18,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,685,0,49
+1688501168740,704,Create Subscription,200,OK,DB 1-52,text,true,,668,443,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/create_subscription,704,0,0
+1688501168771,727,"Get Subscriptions ""/""",200,OK,DB 1-3,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,43,0,21
+1688501168771,43,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-3,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,43,0,21
+1688501168815,683,"Get Subscriptions ""/""-1",200,OK,DB 1-3,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,683,0,49
+1688501168802,727,"Get Subscriptions ""/""",200,OK,DB 1-23,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,47,0,24
+1688501168802,47,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-23,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,47,0,24
+1688501168850,679,"Get Subscriptions ""/""-1",200,OK,DB 1-23,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,679,0,46
+1688501168817,723,"Get Subscriptions ""/""",200,OK,DB 1-42,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,47,0,23
+1688501168817,47,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-42,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,47,0,23
+1688501168864,676,"Get Subscriptions ""/""-1",200,OK,DB 1-42,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,676,0,47
+1688501168817,729,"Get Subscriptions ""/""",200,OK,DB 1-4,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,46,0,23
+1688501168817,46,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-4,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,46,0,23
+1688501168864,682,"Get Subscriptions ""/""-1",200,OK,DB 1-4,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,682,0,49
+1688501168833,718,"Get Subscriptions ""/""",200,OK,DB 1-10,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,43,0,22
+1688501168833,43,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-10,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,43,0,22
+1688501168877,674,"Get Subscriptions ""/""-1",200,OK,DB 1-10,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,674,0,43
+1688501168849,731,"Get Subscriptions ""/""",200,OK,DB 1-15,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,46,0,23
+1688501168849,725,"Get Subscriptions ""/""",200,OK,DB 1-8,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,49,0,24
+1688501168849,46,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-15,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,46,0,23
+1688501168849,49,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-8,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,49,0,24
+1688501168896,684,"Get Subscriptions ""/""-1",200,OK,DB 1-15,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,684,0,51
+1688501168898,676,"Get Subscriptions ""/""-1",200,OK,DB 1-8,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,676,0,45
+1688501168880,728,"Get Subscriptions ""/""",200,OK,DB 1-48,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,44,0,22
+1688501168880,44,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-48,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,44,0,22
+1688501168925,683,"Get Subscriptions ""/""-1",200,OK,DB 1-48,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,683,0,49
+1688501168817,794,"Get Subscriptions ""/""",200,OK,DB 1-12,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,43,0,22
+1688501168817,43,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-12,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,43,0,22
+1688501168860,751,"Get Subscriptions ""/""-1",200,OK,DB 1-12,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,751,0,50
+1688501168880,732,"Get Subscriptions ""/""",200,OK,DB 1-27,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,47,0,24
+1688501168880,47,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-27,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,47,0,24
+1688501168927,685,"Get Subscriptions ""/""-1",200,OK,DB 1-27,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,685,0,47
+1688501168881,731,"Get Subscriptions ""/""",200,OK,DB 1-26,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,43,0,21
+1688501168881,43,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-26,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,43,0,21
+1688501168925,687,"Get Subscriptions ""/""-1",200,OK,DB 1-26,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,687,0,50
+1688501168833,789,"Get Subscriptions ""/""",200,OK,DB 1-16,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,43,0,21
+1688501168833,43,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-16,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,43,0,21
+1688501168876,746,"Get Subscriptions ""/""-1",200,OK,DB 1-16,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,746,0,52
+1688501168896,731,"Get Subscriptions ""/""",200,OK,DB 1-28,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,47,0,24
+1688501168896,47,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-28,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,47,0,24
+1688501168943,684,"Get Subscriptions ""/""-1",200,OK,DB 1-28,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,684,0,50
+1688501168865,767,"Get Subscriptions ""/""",200,OK,DB 1-24,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,43,0,22
+1688501168865,43,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-24,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,43,0,22
+1688501168909,723,"Get Subscriptions ""/""-1",200,OK,DB 1-24,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,723,0,46
+1688501168912,726,"Get Subscriptions ""/""",200,OK,DB 1-29,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,42,0,21
+1688501168912,42,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-29,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,42,0,21
+1688501168955,683,"Get Subscriptions ""/""-1",200,OK,DB 1-29,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,683,0,48
+1688501168912,733,"Get Subscriptions ""/""",200,OK,DB 1-49,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,46,0,22
+1688501168912,46,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-49,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,46,0,22
+1688501168958,687,"Get Subscriptions ""/""-1",200,OK,DB 1-49,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,687,0,50
+1688501168928,729,"Get Subscriptions ""/""",200,OK,DB 1-6,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,46,0,23
+1688501168928,46,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-6,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,46,0,23
+1688501168975,682,"Get Subscriptions ""/""-1",200,OK,DB 1-6,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,682,0,46
+1688501168960,725,"Get Subscriptions ""/""",200,OK,DB 1-21,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,47,0,24
+1688501168960,47,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-21,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,47,0,24
+1688501169007,678,"Get Subscriptions ""/""-1",200,OK,DB 1-21,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,678,0,47
+1688501168960,730,"Get Subscriptions ""/""",200,OK,DB 1-9,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,46,0,23
+1688501168960,46,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-9,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,46,0,23
+1688501169006,684,"Get Subscriptions ""/""-1",200,OK,DB 1-9,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,684,0,50
+1688501168960,733,"Get Subscriptions ""/""",200,OK,DB 1-2,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,46,0,22
+1688501168960,46,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-2,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,46,0,22
+1688501169006,687,"Get Subscriptions ""/""-1",200,OK,DB 1-2,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,687,0,49
+1688501168960,735,"Get Subscriptions ""/""",200,OK,DB 1-30,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,46,0,22
+1688501168960,46,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-30,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,46,0,22
+1688501169006,689,"Get Subscriptions ""/""-1",200,OK,DB 1-30,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,689,0,47
+1688501168976,729,"Get Subscriptions ""/""",200,OK,DB 1-19,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,45,0,22
+1688501168976,45,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-19,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,45,0,22
+1688501169021,684,"Get Subscriptions ""/""-1",200,OK,DB 1-19,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,684,0,50
+1688501169008,724,"Get Subscriptions ""/""",200,OK,DB 1-34,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,38,0,19
+1688501169008,38,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-34,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,38,0,19
+1688501169047,685,"Get Subscriptions ""/""-1",200,OK,DB 1-34,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,685,0,50
+1688501169024,714,"Get Subscriptions ""/""",200,OK,DB 1-55,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,42,0,20
+1688501169024,42,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-55,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,42,0,20
+1688501169066,672,"Get Subscriptions ""/""-1",200,OK,DB 1-55,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,672,0,43
+1688501169024,717,"Get Subscriptions ""/""",200,OK,DB 1-33,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,43,0,21
+1688501169024,43,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-33,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,43,0,21
+1688501169067,674,"Get Subscriptions ""/""-1",200,OK,DB 1-33,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,674,0,42
+1688501169039,730,"Get Subscriptions ""/""",200,OK,DB 1-35,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,43,0,22
+1688501169039,43,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-35,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,43,0,22
+1688501169083,686,"Get Subscriptions ""/""-1",200,OK,DB 1-35,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,686,0,50
+1688501169459,333,"Get Subscriptions ""/""",200,OK,DB 1-36,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,46,0,22
+1688501169459,46,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-36,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,46,0,22
+1688501169505,287,"Get Subscriptions ""/""-1",200,OK,DB 1-36,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,287,0,49
+1688501169489,333,"Get Subscriptions ""/""",200,OK,DB 1-37,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,47,0,24
+1688501169489,47,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-37,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,47,0,24
+1688501169537,285,"Get Subscriptions ""/""-1",200,OK,DB 1-37,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,285,0,47
+1688501169118,725,"Get Subscriptions ""/""",200,OK,DB 1-39,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,43,0,21
+1688501169118,43,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-39,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,43,0,21
+1688501169161,682,"Get Subscriptions ""/""-1",200,OK,DB 1-39,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,682,0,50
+1688501169150,731,"Get Subscriptions ""/""",200,OK,DB 1-41,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,43,0,21
+1688501169150,43,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-41,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,43,0,21
+1688501169193,688,"Get Subscriptions ""/""-1",200,OK,DB 1-41,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,688,0,50
+1688501169180,735,"Get Subscriptions ""/""",200,OK,DB 1-14,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,48,0,23
+1688501169180,48,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-14,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,48,0,23
+1688501169228,687,"Get Subscriptions ""/""-1",200,OK,DB 1-14,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,687,0,47
+1688501169584,336,"Get Subscriptions ""/""",200,OK,DB 1-40,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,46,0,22
+1688501169584,46,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-40,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,46,0,22
+1688501169630,290,"Get Subscriptions ""/""-1",200,OK,DB 1-40,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,290,0,51
+1688501169195,729,"Get Subscriptions ""/""",200,OK,DB 1-20,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,47,0,23
+1688501169195,47,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-20,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,47,0,23
+1688501169242,682,"Get Subscriptions ""/""-1",200,OK,DB 1-20,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,682,0,47
+1688501169594,330,"Get Subscriptions ""/""",200,OK,DB 1-45,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,45,0,23
+1688501169594,45,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-45,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,45,0,23
+1688501169640,284,"Get Subscriptions ""/""-1",200,OK,DB 1-45,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,284,0,44
+1688501169228,720,"Get Subscriptions ""/""",200,OK,DB 1-44,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,39,0,19
+1688501169228,39,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-44,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,39,0,19
+1688501169267,681,"Get Subscriptions ""/""-1",200,OK,DB 1-44,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,681,0,43
+1688501169228,732,"Get Subscriptions ""/""",200,OK,DB 1-11,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,46,0,23
+1688501169228,46,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-11,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,46,0,23
+1688501169274,686,"Get Subscriptions ""/""-1",200,OK,DB 1-11,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,686,0,50
+1688501169242,725,"Get Subscriptions ""/""",200,OK,DB 1-46,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,48,0,24
+1688501169242,48,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-46,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,48,0,24
+1688501169290,677,"Get Subscriptions ""/""-1",200,OK,DB 1-46,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,677,0,47
+1688501169242,735,"Get Subscriptions ""/""",200,OK,DB 1-43,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,46,0,23
+1688501169242,46,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-43,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,46,0,23
+1688501169288,689,"Get Subscriptions ""/""-1",200,OK,DB 1-43,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,689,0,50
+1688501169242,736,"Get Subscriptions ""/""",200,OK,DB 1-47,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,52,0,24
+1688501169242,52,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-47,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,52,0,24
+1688501169294,684,"Get Subscriptions ""/""-1",200,OK,DB 1-47,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,684,0,49
+1688501169678,337,"Get Subscriptions ""/""",200,OK,DB 1-50,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,48,0,23
+1688501169678,48,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-50,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,48,0,23
+1688501169726,289,"Get Subscriptions ""/""-1",200,OK,DB 1-50,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,289,0,50
+1688501169289,731,"Get Subscriptions ""/""",200,OK,DB 1-13,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,46,0,23
+1688501169289,46,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-13,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,46,0,23
+1688501169336,684,"Get Subscriptions ""/""-1",200,OK,DB 1-13,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,684,0,48
+1688501169305,731,"Get Subscriptions ""/""",200,OK,DB 1-5,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,45,0,23
+1688501169305,45,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-5,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,45,0,23
+1688501169350,686,"Get Subscriptions ""/""-1",200,OK,DB 1-5,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,686,0,50
+1688501169321,722,"Get Subscriptions ""/""",200,OK,DB 1-25,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,43,0,22
+1688501169321,43,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-25,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,43,0,22
+1688501169365,678,"Get Subscriptions ""/""-1",200,OK,DB 1-25,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,678,0,45
+1688501169337,736,"Get Subscriptions ""/""",200,OK,DB 1-7,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,42,0,20
+1688501169337,42,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-7,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,42,0,20
+1688501169379,694,"Get Subscriptions ""/""-1",200,OK,DB 1-7,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,694,0,51
+1688501169383,720,"Get Subscriptions ""/""",200,OK,DB 1-53,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,43,0,21
+1688501169383,727,"Get Subscriptions ""/""",200,OK,DB 1-32,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,45,0,22
+1688501169383,43,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-53,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,43,0,21
+1688501169383,45,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-32,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,45,0,22
+1688501169428,682,"Get Subscriptions ""/""-1",200,OK,DB 1-32,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,682,0,50
+1688501169426,677,"Get Subscriptions ""/""-1",200,OK,DB 1-53,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,677,0,46
+1688501169352,734,"Get Subscriptions ""/""",200,OK,DB 1-51,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,46,0,23
+1688501169352,46,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-51,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,46,0,23
+1688501169398,688,"Get Subscriptions ""/""-1",200,OK,DB 1-51,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,688,0,49
+1688501169399,725,"Get Subscriptions ""/""",200,OK,DB 1-22,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,46,0,22
+1688501169399,46,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-22,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,46,0,22
+1688501169445,679,"Get Subscriptions ""/""-1",200,OK,DB 1-22,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,679,0,43
+1688501169414,728,"Get Subscriptions ""/""",200,OK,DB 1-54,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,43,0,21
+1688501169414,43,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-54,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,43,0,21
+1688501169457,685,"Get Subscriptions ""/""-1",200,OK,DB 1-54,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,685,0,50
+1688501169551,727,"Get Subscriptions ""/""",200,OK,DB 1-38,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,43,0,22
+1688501169551,43,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-38,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,43,0,22
+1688501169594,684,"Get Subscriptions ""/""-1",200,OK,DB 1-38,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,684,0,50
+1688501169754,722,"Get Subscriptions ""/""",200,OK,DB 1-52,text,true,,1769,308,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,42,0,21
+1688501169754,42,"Get Subscriptions ""/""-0",301,Moved Permanently,DB 1-52,text,true,,599,154,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,42,0,21
+1688501169797,679,"Get Subscriptions ""/""-1",200,OK,DB 1-52,text,true,,1170,154,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev,679,0,46
+1688501169352,1452,"Get Subscriptions ""/index.css""",200,OK,DB 1-1,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501169352,21,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-1,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501169373,1431,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-1,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,838,0,0
+1688501169445,1449,"Get Subscriptions ""/index.css""",200,OK,DB 1-17,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501169445,21,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-17,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501169465,1429,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-17,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,840,0,0
+1688501169708,1299,"Get Subscriptions ""/index.css""",200,OK,DB 1-31,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,20,0,0
+1688501169708,20,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-31,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,20,0,0
+1688501169728,1279,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-31,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,843,0,0
+1688501169802,1287,"Get Subscriptions ""/index.css""",200,OK,DB 1-3,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,22,0,0
+1688501169802,22,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-3,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,22,0,0
+1688501169824,1265,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-3,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,838,0,0
+1688501170002,1439,"Get Subscriptions ""/index.css""",200,OK,DB 1-30,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170002,23,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-30,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170025,1416,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-30,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,846,0,0
+1688501170219,1431,"Get Subscriptions ""/index.css""",200,OK,DB 1-14,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170219,23,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-14,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170242,1408,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-14,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,843,0,0
+1688501169864,1758,"Get Subscriptions ""/index.css""",200,OK,DB 1-10,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501170234,1389,"Get Subscriptions ""/index.css""",200,OK,DB 1-20,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,24,0,0
+1688501169864,21,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-10,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501169885,1737,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-10,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,846,0,0
+1688501170234,24,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-20,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,24,0,0
+1688501170258,1365,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-20,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,1127,0,0
+1688501170234,1428,"Get Subscriptions ""/index.css""",200,OK,DB 1-45,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501170234,21,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-45,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501170255,1407,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-45,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,844,0,0
+1688501170421,1380,"Get Subscriptions ""/index.css""",200,OK,DB 1-53,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501170421,21,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-53,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501170442,1359,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-53,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,903,0,0
+1688501171398,438,"Get Subscriptions ""/index.js""",200,OK,DB 1-3,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,21,0,0
+1688501171398,21,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-3,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,21,0,0
+1688501171419,417,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-3,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,320,0,0
+1688501169834,2089,"Get Subscriptions ""/index.css""",200,OK,DB 1-23,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,24,0,0
+1688501169834,24,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-23,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,24,0,0
+1688501169858,2065,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-23,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,835,0,0
+1688501170591,1343,"Get Subscriptions ""/index.css""",200,OK,DB 1-38,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501170591,21,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-38,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501170612,1322,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-38,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,849,0,0
+1688501170048,1909,"Get Subscriptions ""/index.css""",200,OK,DB 1-33,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501170048,21,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-33,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501170069,1888,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-33,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,842,0,0
+1688501169940,2177,"Get Subscriptions ""/index.css""",200,OK,DB 1-24,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501169940,21,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-24,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501169961,2156,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-24,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,846,0,0
+1688501169940,2197,"Get Subscriptions ""/index.css""",200,OK,DB 1-29,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501169849,2282,"Get Subscriptions ""/index.css""",200,OK,DB 1-42,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501169940,21,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-29,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501169849,23,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-42,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501169961,2176,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-29,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,843,0,0
+1688501169872,2259,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-42,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,838,0,0
+1688501169956,2231,"Get Subscriptions ""/index.css""",200,OK,DB 1-6,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501169956,23,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-6,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501169979,2208,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-6,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,846,0,0
+1688501170421,1811,"Get Subscriptions ""/index.css""",200,OK,DB 1-51,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170421,23,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-51,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170444,1788,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-51,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,1379,0,0
+1688501169708,2600,"Get Subscriptions ""/index.css""",200,OK,DB 1-18,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501169708,23,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-18,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501169731,2577,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-18,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,845,0,0
+1688501170343,1973,"Get Subscriptions ""/index.css""",200,OK,DB 1-25,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,22,0,0
+1688501170343,22,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-25,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,22,0,0
+1688501170365,1951,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-25,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,1824,0,0
+1688501169910,2449,"Get Subscriptions ""/index.css""",200,OK,DB 1-12,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,20,0,0
+1688501169910,20,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-12,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,20,0,0
+1688501169930,2429,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-12,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,855,0,0
+1688501170421,2026,"Get Subscriptions ""/index.css""",200,OK,DB 1-32,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170421,23,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-32,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170444,2003,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-32,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,1244,0,0
+1688501171117,1407,"Get Subscriptions ""/index.js""",200,OK,DB 1-1,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,22,0,0
+1688501171117,22,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-1,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,22,0,0
+1688501171139,1385,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-1,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,1058,0,0
+1688501169987,2588,"Get Subscriptions ""/index.css""",200,OK,DB 1-21,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,22,0,0
+1688501169987,22,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-21,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,22,0,0
+1688501170009,2566,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-21,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,850,0,0
+1688501172106,489,"Get Subscriptions ""/index.js""",200,OK,DB 1-53,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,21,0,0
+1688501172106,21,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-53,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,21,0,0
+1688501172127,468,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-53,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,283,0,0
+1688501171965,742,"Get Subscriptions ""/index.js""",200,OK,DB 1-45,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,262,0,0
+1688501171965,262,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-45,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,262,0,0
+1688501172227,480,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-45,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,317,0,0
+1688501171318,1493,"Get Subscriptions ""/index.js""",200,OK,DB 1-31,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,253,0,0
+1688501171318,253,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-31,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,253,0,0
+1688501171571,1240,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-31,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,840,0,0
+1688501171195,1646,"Get Subscriptions ""/index.js""",200,OK,DB 1-17,text,true,,162225,326,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,21,0,0
+1688501171195,21,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-17,text,true,,608,163,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,21,0,0
+1688501171216,1625,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-17,text,true,,161617,163,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,1003,0,0
+1688501169925,2930,"Get Subscriptions ""/index.css""",200,OK,DB 1-26,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501169925,21,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-26,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501169946,2909,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-26,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,838,0,0
+1688501170281,2597,"Get Subscriptions ""/index.css""",200,OK,DB 1-47,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170281,23,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-47,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170304,2574,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-47,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,1697,0,0
+1688501170234,2718,"Get Subscriptions ""/index.css""",200,OK,DB 1-40,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170234,23,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-40,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170257,2695,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-40,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,2140,0,0
+1688501169925,3253,"Get Subscriptions ""/index.css""",200,OK,DB 1-27,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170048,3148,"Get Subscriptions ""/index.css""",200,OK,DB 1-55,text,true,,196785,328,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501169925,23,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-27,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501169948,3230,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-27,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,845,0,0
+1688501170048,21,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-55,text,true,,609,164,55,55,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501170069,3127,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-55,text,true,,196176,164,55,55,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,849,0,0
+1688501172136,1109,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-3,text,true,,17337,336,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,39,0,0
+1688501172136,39,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-3,text,true,,613,168,55,55,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,39,0,0
+1688501172175,1070,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-3,text,true,,16724,168,55,55,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,1070,0,139
+1688501171965,1325,"Get Subscriptions ""/index.js""",200,OK,DB 1-14,text,true,,162225,326,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,23,0,0
+1688501171965,23,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-14,text,true,,608,163,54,54,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,23,0,0
+1688501171988,1302,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-14,text,true,,161617,163,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,856,0,0
+1688501171965,1410,"Get Subscriptions ""/index.js""",200,OK,DB 1-20,text,true,,162225,326,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,30,0,0
+1688501171965,30,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-20,text,true,,608,163,54,54,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,30,0,0
+1688501171995,1380,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-20,text,true,,161617,163,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,844,0,0
+1688501172618,757,"Get Subscriptions ""/index.js""",200,OK,DB 1-25,text,true,,162225,326,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,21,0,0
+1688501172618,21,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-25,text,true,,608,163,54,54,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,21,0,0
+1688501172639,736,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-25,text,true,,161617,163,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,272,0,0
+1688501170281,3151,"Get Subscriptions ""/index.css""",200,OK,DB 1-46,text,true,,196785,328,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170281,23,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-46,text,true,,609,164,54,54,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170304,3128,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-46,text,true,,196176,164,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,446,0,0
+1688501170374,3084,"Get Subscriptions ""/index.css""",200,OK,DB 1-7,text,true,,196785,328,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501170374,21,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-7,text,true,,609,164,54,54,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501170395,3063,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-7,text,true,,196176,164,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,1241,0,0
+1688501171742,1732,"Get Subscriptions ""/index.js""",200,OK,DB 1-30,text,true,,162225,326,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,23,0,0
+1688501171742,23,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-30,text,true,,608,163,54,54,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,23,0,0
+1688501171765,1709,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-30,text,true,,161617,163,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,871,0,0
+1688501170250,3272,"Get Subscriptions ""/index.css""",200,OK,DB 1-44,text,true,,196785,328,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,20,0,0
+1688501170250,20,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-44,text,true,,609,164,54,54,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,20,0,0
+1688501170270,3252,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-44,text,true,,196176,164,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,2611,0,0
+1688501172495,1067,"Get Subscriptions ""/index.js""",200,OK,DB 1-6,text,true,,162225,326,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,278,0,0
+1688501172495,278,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-6,text,true,,608,163,54,54,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,278,0,0
+1688501172773,789,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-6,text,true,,161617,163,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,343,0,0
+1688501172246,1317,"Get Subscriptions ""/index.js""",200,OK,DB 1-38,text,true,,162225,326,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,21,0,0
+1688501172246,21,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-38,text,true,,608,163,54,54,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,21,0,0
+1688501172267,1296,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-38,text,true,,161617,163,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,913,0,0
+1688501171965,1638,"Get Subscriptions ""/index.js""",200,OK,DB 1-10,text,true,,162225,326,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,277,0,0
+1688501171965,277,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-10,text,true,,608,163,54,54,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,277,0,0
+1688501172242,1361,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-10,text,true,,161617,163,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,960,0,0
+1688501169849,3878,"Get Subscriptions ""/index.css""",200,OK,DB 1-4,text,true,,196785,328,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,22,0,0
+1688501169849,22,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-4,text,true,,609,164,54,54,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,22,0,0
+1688501169871,3856,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-4,text,true,,196176,164,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,837,0,0
+1688501172261,1471,"Get Subscriptions ""/index.js""",200,OK,DB 1-33,text,true,,162225,326,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,22,0,0
+1688501172261,22,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-33,text,true,,608,163,54,54,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,22,0,0
+1688501172283,1449,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-33,text,true,,161617,163,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,907,0,0
+1688501172419,1344,"Get Subscriptions ""/index.js""",200,OK,DB 1-24,text,true,,162225,326,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,21,0,0
+1688501172419,21,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-24,text,true,,608,163,54,54,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,21,0,0
+1688501172440,1323,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-24,text,true,,161617,163,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,925,0,0
+1688501170079,3712,"Get Subscriptions ""/index.css""",200,OK,DB 1-35,text,true,,196785,328,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501170079,21,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-35,text,true,,609,164,54,54,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501170100,3691,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-35,text,true,,196176,164,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,837,0,0
+1688501173164,636,"Get Subscriptions ""/index.js""",200,OK,DB 1-26,text,true,,162225,326,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,266,0,0
+1688501173164,266,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-26,text,true,,608,163,54,54,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,266,0,0
+1688501173430,370,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-26,text,true,,161617,163,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,263,0,0
+1688501170002,3900,"Get Subscriptions ""/index.css""",200,OK,DB 1-9,text,true,,196785,328,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,22,0,0
+1688501170002,22,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-9,text,true,,609,164,54,54,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,22,0,0
+1688501170024,3878,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-9,text,true,,196176,164,54,54,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,841,0,0
+1688501172901,1025,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-53,text,true,,17337,336,54,54,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,40,0,0
+1688501172901,40,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-53,text,true,,613,168,54,54,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,40,0,0
+1688501172941,985,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-53,text,true,,16724,168,54,54,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,985,0,81
+1688501172665,1302,"Get Subscriptions ""/index.js""",200,OK,DB 1-12,text,true,,162225,326,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,21,0,0
+1688501172665,21,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-12,text,true,,608,163,53,53,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,21,0,0
+1688501172686,1281,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-12,text,true,,161617,163,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,854,0,0
+1688501172541,1531,"Get Subscriptions ""/index.js""",200,OK,DB 1-51,text,true,,162225,326,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,24,0,0
+1688501172541,24,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-51,text,true,,608,163,53,53,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,24,0,0
+1688501172565,1507,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-51,text,true,,161617,163,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,274,0,0
+1688501172465,1615,"Get Subscriptions ""/index.js""",200,OK,DB 1-42,text,true,,162225,326,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,267,0,0
+1688501172465,267,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-42,text,true,,608,163,53,53,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,267,0,0
+1688501172732,1348,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-42,text,true,,161617,163,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,882,0,0
+1688501172465,1630,"Get Subscriptions ""/index.js""",200,OK,DB 1-29,text,true,,162225,326,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,275,0,0
+1688501172465,275,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-29,text,true,,608,163,53,53,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,275,0,0
+1688501172740,1355,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-29,text,true,,161617,163,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,855,0,0
+1688501173508,609,"Get Subscriptions ""/index.js""",200,OK,DB 1-55,text,true,,162225,326,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,21,0,0
+1688501173508,21,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-55,text,true,,608,163,53,53,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,21,0,0
+1688501173529,588,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-55,text,true,,161617,163,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,264,0,0
+1688501172759,1365,"Get Subscriptions ""/index.js""",200,OK,DB 1-32,text,true,,162225,326,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,33,0,0
+1688501172759,33,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-32,text,true,,608,163,53,53,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,33,0,0
+1688501172792,1332,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-32,text,true,,161617,163,53,53,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,866,0,0
+1688501173148,1021,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-17,text,true,,17337,336,53,53,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501173148,54,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-17,text,true,,613,168,53,53,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501173203,966,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-17,text,true,,16724,168,53,53,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,966,0,82
+1688501173771,412,"Get Subscriptions ""/index.js""",200,OK,DB 1-7,text,true,,162225,326,52,52,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,21,0,0
+1688501173771,21,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-7,text,true,,608,163,52,52,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,21,0,0
+1688501173792,391,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-7,text,true,,161617,163,52,52,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,311,0,0
+1688501172885,1329,"Get Subscriptions ""/index.js""",200,OK,DB 1-21,text,true,,162225,326,52,52,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,23,0,0
+1688501172839,1370,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-1,text,true,,17337,336,52,52,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,39,0,0
+1688501172885,23,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-21,text,true,,608,163,52,52,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,23,0,0
+1688501172839,39,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-1,text,true,,613,168,52,52,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,39,0,0
+1688501172908,1306,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-21,text,true,,161617,163,52,52,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,888,0,0
+1688501172879,1330,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-1,text,true,,16724,168,52,52,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,1330,0,81
+1688501173008,1240,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-45,text,true,,17337,336,52,52,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,293,0,0
+1688501173008,293,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-45,text,true,,613,168,52,52,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,293,0,0
+1688501173301,947,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-45,text,true,,16724,168,52,52,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,947,0,81
+1688501173679,630,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-20,text,true,,17337,336,50,50,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,53,0,0
+1688501173679,53,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-20,text,true,,613,168,50,50,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,53,0,0
+1688501173733,576,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-20,text,true,,16724,168,50,50,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,576,0,80
+1688501173118,1268,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-31,text,true,,17337,336,49,49,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,319,0,0
+1688501173118,319,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-31,text,true,,613,168,49,49,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,319,0,0
+1688501173437,949,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-31,text,true,,16724,168,49,49,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,949,0,81
+1688501172230,2162,"Get Subscriptions ""/index.js""",200,OK,DB 1-23,text,true,,162225,326,48,48,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,23,0,0
+1688501172230,23,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-23,text,true,,608,163,48,48,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,23,0,0
+1688501172253,2139,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-23,text,true,,161617,163,48,48,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,310,0,0
+1688501173179,1289,"Get Subscriptions ""/index.js""",200,OK,DB 1-47,text,true,,162225,326,48,48,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,23,0,0
+1688501173179,23,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-47,text,true,,608,163,48,48,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,23,0,0
+1688501173202,1266,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-47,text,true,,161617,163,48,48,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,848,0,0
+1688501174035,502,"Get Subscriptions ""/index.js""",200,OK,DB 1-4,text,true,,162225,326,48,48,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,23,0,0
+1688501174035,23,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-4,text,true,,608,163,48,48,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,23,0,0
+1688501174058,479,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-4,text,true,,161617,163,48,48,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,265,0,0
+1688501173258,1292,"Get Subscriptions ""/index.js""",200,OK,DB 1-40,text,true,,162225,326,48,48,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,22,0,0
+1688501173258,22,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-40,text,true,,608,163,48,48,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,22,0,0
+1688501173280,1270,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-40,text,true,,161617,163,48,48,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,847,0,0
+1688501173601,1006,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-14,text,true,,17337,336,48,48,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501173601,55,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-14,text,true,,613,168,48,48,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501173656,951,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-14,text,true,,16724,168,48,48,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,951,0,81
+1688501173679,1009,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-25,text,true,,17337,336,47,47,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,53,0,0
+1688501173679,53,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-25,text,true,,613,168,47,47,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,53,0,0
+1688501173732,956,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-25,text,true,,16724,168,47,47,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,956,0,81
+1688501172618,2113,"Get Subscriptions ""/index.js""",200,OK,DB 1-18,text,true,,162225,326,46,46,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,23,0,0
+1688501172618,23,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-18,text,true,,608,163,46,46,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,23,0,0
+1688501172641,2090,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-18,text,true,,161617,163,46,46,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,952,0,0
+1688501170779,4037,"Get Subscriptions ""/index.css""",200,OK,DB 1-52,text,true,,196785,328,46,46,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501170779,21,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-52,text,true,,609,164,46,46,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501170800,4016,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-52,text,true,,196176,164,46,46,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,901,0,0
+1688501173508,1308,"Get Subscriptions ""/index.js""",200,OK,DB 1-27,text,true,,162225,326,46,46,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,23,0,0
+1688501173508,23,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-27,text,true,,608,163,46,46,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,23,0,0
+1688501173531,1285,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-27,text,true,,161617,163,46,46,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,852,0,0
+1688501169956,4894,"Get Subscriptions ""/index.css""",200,OK,DB 1-49,text,true,,196785,328,46,46,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,22,0,0
+1688501169956,22,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-49,text,true,,609,164,46,46,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,22,0,0
+1688501169978,4872,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-49,text,true,,196176,164,46,46,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,839,0,0
+1688501173864,1004,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-6,text,true,,17337,336,46,46,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501173864,54,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-6,text,true,,613,168,46,46,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501173918,950,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-6,text,true,,16724,168,46,46,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,950,0,82
+1688501173864,1004,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-38,text,true,,17337,336,46,46,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,53,0,0
+1688501173864,53,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-38,text,true,,613,168,46,46,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,53,0,0
+1688501173918,950,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-38,text,true,,16724,168,46,46,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,950,0,80
+1688501173911,1003,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-10,text,true,,17337,336,44,44,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501173911,54,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-10,text,true,,613,168,44,44,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501173966,948,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-10,text,true,,16724,168,44,44,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,948,0,80
+1688501170343,4668,"Get Subscriptions ""/index.css""",200,OK,DB 1-5,text,true,,196785,328,43,43,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501170343,21,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-5,text,true,,609,164,43,43,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501170364,4647,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-5,text,true,,196176,164,43,43,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,4531,0,0
+1688501170188,4831,"Get Subscriptions ""/index.css""",200,OK,DB 1-41,text,true,,196785,328,43,43,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501170188,21,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-41,text,true,,609,164,43,43,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501170209,4810,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-41,text,true,,196176,164,43,43,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,845,0,0
+1688501169894,5130,"Get Subscriptions ""/index.css""",200,OK,DB 1-8,text,true,,196785,328,43,43,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,24,0,0
+1688501169894,24,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-8,text,true,,609,164,43,43,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,24,0,0
+1688501169918,5106,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-8,text,true,,196176,164,43,43,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,841,0,0
+1688501170033,4991,"Get Subscriptions ""/index.css""",200,OK,DB 1-34,text,true,,196785,328,43,43,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,20,0,0
+1688501170033,20,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-34,text,true,,609,164,43,43,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,20,0,0
+1688501170053,4971,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-34,text,true,,196176,164,43,43,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,854,0,0
+1688501174035,997,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-33,text,true,,17337,336,43,43,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,53,0,0
+1688501174035,53,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-33,text,true,,613,168,43,43,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,53,0,0
+1688501174089,943,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-33,text,true,,16724,168,43,43,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,943,0,82
+1688501173740,1293,"Get Subscriptions ""/index.js""",200,OK,DB 1-46,text,true,,162225,326,42,42,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,23,0,0
+1688501173740,23,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-46,text,true,,608,163,42,42,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,23,0,0
+1688501173763,1270,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-46,text,true,,161617,163,42,42,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,378,0,0
+1688501174382,662,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-42,text,true,,17337,336,42,42,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501174382,54,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-42,text,true,,613,168,42,42,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501174437,607,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-42,text,true,,16724,168,42,42,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,607,0,80
+1688501174066,995,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-24,text,true,,17337,336,41,41,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501174066,55,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-24,text,true,,613,168,41,41,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501174121,940,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-24,text,true,,16724,168,41,41,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,940,0,81
+1688501170158,4905,"Get Subscriptions ""/index.css""",200,OK,DB 1-39,text,true,,196785,328,40,40,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501170158,21,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-39,text,true,,609,164,40,40,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501170179,4884,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-39,text,true,,196176,164,40,40,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,851,0,0
+1688501173787,1280,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-30,text,true,,17337,336,40,40,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,322,0,0
+1688501173787,322,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-30,text,true,,613,168,40,40,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,322,0,0
+1688501174109,958,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-30,text,true,,16724,168,40,40,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,958,0,81
+1688501170002,5084,"Get Subscriptions ""/index.css""",200,OK,DB 1-2,text,true,,196785,328,39,39,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170002,23,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-2,text,true,,609,164,39,39,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170025,5061,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-2,text,true,,196176,164,39,39,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,847,0,0
+1688501170126,4969,"Get Subscriptions ""/index.css""",200,OK,DB 1-37,text,true,,196785,328,39,39,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170126,23,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-37,text,true,,609,164,39,39,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170149,4946,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-37,text,true,,196176,164,39,39,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,842,0,0
+1688501170017,5178,"Get Subscriptions ""/index.css""",200,OK,DB 1-19,text,true,,196785,328,39,39,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170017,23,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-19,text,true,,609,164,39,39,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170040,5155,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-19,text,true,,196176,164,39,39,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,848,0,0
+1688501170094,5151,"Get Subscriptions ""/index.css""",200,OK,DB 1-36,text,true,,196785,328,39,39,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170094,23,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-36,text,true,,609,164,39,39,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501169910,5327,"Get Subscriptions ""/index.css""",200,OK,DB 1-48,text,true,,196785,328,39,39,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,20,0,0
+1688501170117,5128,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-36,text,true,,196176,164,39,39,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,846,0,0
+1688501169940,5291,"Get Subscriptions ""/index.css""",200,OK,DB 1-28,text,true,,196785,328,39,39,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501169910,20,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-48,text,true,,609,164,39,39,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,20,0,0
+1688501169894,5333,"Get Subscriptions ""/index.css""",200,OK,DB 1-15,text,true,,196785,328,39,39,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501169930,5307,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-48,text,true,,196176,164,39,39,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,860,0,0
+1688501169894,23,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-15,text,true,,609,164,39,39,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501169940,23,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-28,text,true,,609,164,39,39,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501169917,5310,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-15,text,true,,196176,164,39,39,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,842,0,0
+1688501169963,5268,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-28,text,true,,196176,164,39,39,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,844,0,0
+1688501174272,1011,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-12,text,true,,17337,336,39,39,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,56,0,0
+1688501174272,56,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-12,text,true,,613,168,39,39,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,56,0,0
+1688501174328,955,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-12,text,true,,16724,168,39,39,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,955,0,81
+1688501170328,4991,"Get Subscriptions ""/index.css""",200,OK,DB 1-50,text,true,,196785,328,38,38,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170328,23,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-50,text,true,,609,164,38,38,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170351,4968,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-50,text,true,,196176,164,38,38,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,4649,0,0
+1688501170265,5096,"Get Subscriptions ""/index.css""",200,OK,DB 1-11,text,true,,196785,328,38,38,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,22,0,0
+1688501170265,23,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-11,text,true,,609,164,38,38,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,22,0,0
+1688501170288,5073,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-11,text,true,,196176,164,38,38,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,4774,0,0
+1688501174382,1000,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-51,text,true,,17337,336,38,38,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501174382,54,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-51,text,true,,613,168,38,38,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501174436,946,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-51,text,true,,16724,168,38,38,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,946,0,81
+1688501174398,995,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-29,text,true,,17337,336,37,37,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,53,0,0
+1688501174398,53,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-29,text,true,,613,168,37,37,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,53,0,0
+1688501174451,942,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-29,text,true,,16724,168,37,37,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,942,0,81
+1688501170453,4967,"Get Subscriptions ""/index.css""",200,OK,DB 1-54,text,true,,196785,328,36,36,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501170453,21,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-54,text,true,,609,164,36,36,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501170474,4946,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-54,text,true,,196176,164,36,36,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,844,0,0
+1688501170281,5143,"Get Subscriptions ""/index.css""",200,OK,DB 1-43,text,true,,196785,328,36,36,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170281,23,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-43,text,true,,609,164,36,36,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170304,5120,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-43,text,true,,196176,164,36,36,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,4672,0,0
+1688501174428,1005,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-55,text,true,,17337,336,36,36,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,53,0,0
+1688501174428,53,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-55,text,true,,613,168,36,36,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,53,0,0
+1688501174481,952,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-55,text,true,,16724,168,36,36,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,952,0,82
+1688501174428,1005,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-32,text,true,,17337,336,36,36,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,53,0,0
+1688501174428,53,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-32,text,true,,613,168,36,36,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,53,0,0
+1688501174481,952,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-32,text,true,,16724,168,36,36,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,952,0,80
+1688501173833,1610,"Get Subscriptions ""/index.js""",200,OK,DB 1-44,text,true,,162225,326,34,34,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,19,0,0
+1688501173833,19,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-44,text,true,,608,163,34,34,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,19,0,0
+1688501173852,1591,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-44,text,true,,161617,163,34,34,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,857,0,0
+1688501174490,1011,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-7,text,true,,17337,336,34,34,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501174490,54,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-7,text,true,,613,168,34,34,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501174545,956,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-7,text,true,,16724,168,34,34,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,956,0,80
+1688501174208,1333,"Get Subscriptions ""/index.js""",200,OK,DB 1-9,text,true,,162225,326,33,33,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,23,0,0
+1688501174208,23,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-9,text,true,,608,163,33,33,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,23,0,0
+1688501174231,1310,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-9,text,true,,161617,163,33,33,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,926,0,0
+1688501174113,1439,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-26,text,true,,17337,336,33,33,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501174113,54,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-26,text,true,,613,168,33,33,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501174168,1384,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-26,text,true,,16724,168,33,33,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,1384,0,81
+1688501174551,1005,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-21,text,true,,17337,336,32,32,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501174551,55,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-21,text,true,,613,168,32,32,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501174606,950,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-21,text,true,,16724,168,32,32,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,950,0,82
+1688501174772,847,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-47,text,true,,17337,336,31,31,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501174772,55,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-47,text,true,,613,168,31,31,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501174827,792,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-47,text,true,,16724,168,31,31,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,792,0,81
+1688501174692,999,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-23,text,true,,17337,336,30,30,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501174692,55,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-23,text,true,,613,168,30,30,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501174747,944,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-23,text,true,,16724,168,30,30,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,944,0,80
+1688501175401,385,"Get Subscriptions ""/index.js""",200,OK,DB 1-37,text,true,,162225,326,29,29,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,39,0,0
+1688501175401,39,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-37,text,true,,608,163,29,29,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,39,0,0
+1688501175440,346,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-37,text,true,,161617,163,29,29,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,263,0,0
+1688501174851,1003,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-4,text,true,,17337,336,29,29,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501174851,55,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-4,text,true,,613,168,29,29,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501174906,948,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-4,text,true,,16724,168,29,29,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,948,0,80
+1688501174851,1004,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-40,text,true,,17337,336,28,28,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501174851,54,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-40,text,true,,613,168,28,28,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501174905,950,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-40,text,true,,16724,168,28,28,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,950,0,81
+1688501175324,544,"Get Subscriptions ""/index.js""",200,OK,DB 1-8,text,true,,162225,326,27,27,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,38,0,0
+1688501175324,38,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-8,text,true,,608,163,27,27,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,38,0,0
+1688501175362,506,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-8,text,true,,161617,163,27,27,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,264,0,0
+1688501175165,710,"Get Subscriptions ""/index.js""",200,OK,DB 1-49,text,true,,162225,326,27,27,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,38,0,0
+1688501175165,38,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-49,text,true,,608,163,27,27,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,38,0,0
+1688501175203,672,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-49,text,true,,161617,163,27,27,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,265,0,0
+1688501175575,427,"Get Subscriptions ""/index.js""",200,OK,DB 1-28,text,true,,162225,326,27,27,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,37,0,0
+1688501175575,37,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-28,text,true,,608,163,27,27,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,37,0,0
+1688501175612,390,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-28,text,true,,161617,163,27,27,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,267,0,0
+1688501175575,525,"Get Subscriptions ""/index.js""",200,OK,DB 1-15,text,true,,162225,326,27,27,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,38,0,0
+1688501175575,38,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-15,text,true,,608,163,27,27,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,38,0,0
+1688501175613,487,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-15,text,true,,161617,163,27,27,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,268,0,0
+1688501175071,1033,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-18,text,true,,17337,336,27,27,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501175071,55,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-18,text,true,,613,168,27,27,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501175126,978,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-18,text,true,,16724,168,27,27,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,978,0,80
+1688501175621,703,"Get Subscriptions ""/index.js""",200,OK,DB 1-50,text,true,,162225,326,26,26,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,39,0,0
+1688501175621,39,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-50,text,true,,608,163,26,26,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,39,0,0
+1688501175660,664,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-50,text,true,,161617,163,26,26,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,273,0,0
+1688501175339,1000,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-46,text,true,,17337,336,26,26,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501175339,55,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-46,text,true,,613,168,26,26,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501175394,945,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-46,text,true,,16724,168,26,26,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,944,0,81
+1688501175117,1277,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-27,text,true,,17337,336,25,25,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,328,0,0
+1688501175117,328,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-27,text,true,,613,168,25,25,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,328,0,0
+1688501175446,948,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-27,text,true,,16724,168,25,25,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,948,0,80
+1688501175324,1285,"Get Subscriptions ""/index.js""",200,OK,DB 1-5,text,true,,162225,326,24,24,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,36,0,0
+1688501175324,36,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-5,text,true,,608,163,24,24,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,36,0,0
+1688501175360,1249,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-5,text,true,,161617,163,24,24,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,850,0,0
+1688501175324,1305,"Get Subscriptions ""/index.js""",200,OK,DB 1-41,text,true,,162225,326,24,24,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,36,0,0
+1688501175324,36,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-41,text,true,,608,163,24,24,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,36,0,0
+1688501175360,1269,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-41,text,true,,161617,163,24,24,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,849,0,0
+1688501175339,1303,"Get Subscriptions ""/index.js""",200,OK,DB 1-34,text,true,,162225,326,24,24,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,36,0,0
+1688501175339,36,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-34,text,true,,608,163,24,24,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,36,0,0
+1688501175375,1267,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-34,text,true,,161617,163,24,24,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,849,0,0
+1688501175371,1307,"Get Subscriptions ""/index.js""",200,OK,DB 1-39,text,true,,162225,326,24,24,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,37,0,0
+1688501175371,37,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-39,text,true,,608,163,24,24,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,37,0,0
+1688501175408,1270,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-39,text,true,,161617,163,24,24,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,845,0,0
+1688501175386,1304,"Get Subscriptions ""/index.js""",200,OK,DB 1-2,text,true,,162225,326,24,24,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,38,0,0
+1688501175386,38,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-2,text,true,,608,163,24,24,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,38,0,0
+1688501175424,1266,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-2,text,true,,161617,163,24,24,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,851,0,0
+1688501176314,402,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-28,text,true,,17337,336,24,24,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501176314,55,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-28,text,true,,613,168,24,24,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501176369,347,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-28,text,true,,16724,168,24,24,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,347,0,81
+1688501176187,598,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-49,text,true,,17337,336,23,23,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501175749,1002,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-44,text,true,,17337,336,23,23,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501176187,55,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-49,text,true,,613,168,23,23,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501175749,54,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-44,text,true,,613,168,23,23,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501176242,543,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-49,text,true,,16724,168,23,23,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,543,0,80
+1688501175804,947,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-44,text,true,,16724,168,23,23,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,947,0,81
+1688501175497,1329,"Get Subscriptions ""/index.js""",200,OK,DB 1-19,text,true,,162225,326,21,21,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,39,0,0
+1688501175497,39,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-19,text,true,,608,163,21,21,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,39,0,0
+1688501175536,1290,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-19,text,true,,161617,163,21,21,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,852,0,0
+1688501175844,1000,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-9,text,true,,17337,336,21,21,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501175844,54,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-9,text,true,,613,168,21,21,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501175898,946,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-9,text,true,,16724,168,21,21,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,946,0,82
+1688501175575,1311,"Get Subscriptions ""/index.js""",200,OK,DB 1-48,text,true,,162225,326,20,20,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,36,0,0
+1688501175575,36,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-48,text,true,,608,163,20,20,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,36,0,0
+1688501175611,1275,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-48,text,true,,161617,163,20,20,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,860,0,0
+1688501175575,1327,"Get Subscriptions ""/index.js""",200,OK,DB 1-36,text,true,,162225,326,20,20,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,39,0,0
+1688501175575,39,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-36,text,true,,608,163,20,20,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,39,0,0
+1688501175614,1288,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-36,text,true,,161617,163,20,20,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,863,0,0
+1688501175669,1314,"Get Subscriptions ""/index.js""",200,OK,DB 1-11,text,true,,162225,326,20,20,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,38,0,0
+1688501175669,38,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-11,text,true,,608,163,20,20,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,38,0,0
+1688501175707,1276,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-11,text,true,,161617,163,20,20,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,850,0,0
+1688501175733,1282,"Get Subscriptions ""/index.js""",200,OK,DB 1-43,text,true,,162225,326,20,20,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,38,0,0
+1688501175733,38,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-43,text,true,,608,163,20,20,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,38,0,0
+1688501175771,1244,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-43,text,true,,161617,163,20,20,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,846,0,0
+1688501175733,1312,"Get Subscriptions ""/index.js""",200,OK,DB 1-54,text,true,,162225,326,20,20,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,37,0,0
+1688501175733,37,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-54,text,true,,608,163,20,20,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,37,0,0
+1688501175770,1275,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-54,text,true,,161617,163,20,20,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,849,0,0
+1688501176092,1005,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-37,text,true,,17337,336,20,20,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501176092,55,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-37,text,true,,613,168,20,20,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501176148,949,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-37,text,true,,16724,168,20,20,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,949,0,81
+1688501176170,1003,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-8,text,true,,17337,336,19,19,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,56,0,0
+1688501176170,56,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-8,text,true,,613,168,19,19,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,56,0,0
+1688501176226,947,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-8,text,true,,16724,168,19,19,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,947,0,81
+1688501176409,1001,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-15,text,true,,17337,336,18,18,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501176409,54,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-15,text,true,,613,168,18,18,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501176463,947,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-15,text,true,,16724,168,18,18,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,947,0,85
+1688501176910,612,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-5,text,true,,17337,336,17,17,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,56,0,0
+1688501176910,56,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-5,text,true,,613,168,17,17,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,56,0,0
+1688501176966,556,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-5,text,true,,16724,168,17,17,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,556,0,82
+1688501177127,424,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-19,text,true,,17337,336,16,16,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501177127,54,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-19,text,true,,613,168,16,16,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501177182,369,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-19,text,true,,16724,168,16,16,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,368,0,81
+1688501174097,3471,"Get Subscriptions ""/index.js""",200,OK,DB 1-35,text,true,,162225,326,15,15,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,21,0,0
+1688501174097,21,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-35,text,true,,608,163,15,15,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,21,0,0
+1688501174118,3450,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-35,text,true,,161617,163,15,15,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,1126,0,0
+1688501177189,410,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-48,text,true,,17337,336,15,15,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501177189,55,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-48,text,true,,613,168,15,15,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501177244,355,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-48,text,true,,16724,168,15,15,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,355,0,83
+1688501176627,999,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-50,text,true,,17337,336,14,14,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,53,0,0
+1688501176627,53,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-50,text,true,,613,168,14,14,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,53,0,0
+1688501176680,946,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-50,text,true,,16724,168,14,14,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,946,0,81
+1688501176942,1010,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-41,text,true,,17337,336,13,13,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,56,0,0
+1688501176942,56,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-41,text,true,,613,168,13,13,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,56,0,0
+1688501176998,954,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-41,text,true,,16724,168,13,13,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,954,0,84
+1688501176957,1001,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-34,text,true,,17337,336,12,12,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501176957,54,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-34,text,true,,613,168,12,12,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501177012,946,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-34,text,true,,16724,168,12,12,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,946,0,79
+1688501176987,999,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-39,text,true,,17337,336,11,11,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501176987,55,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-39,text,true,,613,168,11,11,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501177043,943,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-39,text,true,,16724,168,11,11,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,943,0,80
+1688501177003,995,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-2,text,true,,17337,336,10,10,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501177003,54,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-2,text,true,,613,168,10,10,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501177057,941,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-2,text,true,,16724,168,10,10,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,941,0,80
+1688501177285,996,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-11,text,true,,17337,336,9,9,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501177205,995,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-36,text,true,,17337,336,9,9,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501177285,55,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-11,text,true,,613,168,9,9,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501177205,55,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-36,text,true,,613,168,9,9,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501177340,941,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-11,text,true,,16724,168,9,9,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,941,0,81
+1688501177260,940,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-36,text,true,,16724,168,9,9,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,940,0,81
+1688501177317,996,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-43,text,true,,17337,336,7,7,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501177317,55,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-43,text,true,,613,168,7,7,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501177373,940,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-43,text,true,,16724,168,7,7,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,939,0,81
+1688501177349,1005,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-54,text,true,,17337,336,6,6,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,56,0,0
+1688501177349,56,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-54,text,true,,613,168,6,6,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,56,0,0
+1688501177406,948,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-54,text,true,,16724,168,6,6,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,948,0,80
+1688501177874,999,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-35,text,true,,17337,336,5,5,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501177874,54,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-35,text,true,,613,168,5,5,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501177928,945,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-35,text,true,,16724,168,5,5,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,945,0,81
+1688501170328,8684,"Get Subscriptions ""/index.css""",200,OK,DB 1-13,text,true,,196785,328,4,4,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170328,23,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-13,text,true,,609,164,4,4,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170351,8661,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-13,text,true,,196176,164,4,4,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,8549,0,0
+1688501169925,9217,"Get Subscriptions ""/index.css""",200,OK,DB 1-16,text,true,,196785,328,4,4,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501169925,21,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-16,text,true,,609,164,4,4,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,21,0,0
+1688501169946,9196,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-16,text,true,,196176,164,4,4,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,845,0,0
+1688501170437,8863,"Get Subscriptions ""/index.css""",200,OK,DB 1-22,text,true,,196785,328,4,4,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170437,23,"Get Subscriptions ""/index.css""-0",301,Moved Permanently,DB 1-22,text,true,,609,164,4,4,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,23,0,0
+1688501170460,8840,"Get Subscriptions ""/index.css""-1",200,OK,DB 1-22,text,true,,196176,164,4,4,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.css,1213,0,0
+1688501175117,4557,"Get Subscriptions ""/index.js""",200,OK,DB 1-52,text,true,,162225,326,4,4,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,265,0,0
+1688501175117,265,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-52,text,true,,608,163,4,4,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,265,0,0
+1688501175382,4292,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-52,text,true,,161617,163,4,4,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,626,0,0
+1688501179601,492,"Get Subscriptions ""/index.js""",200,OK,DB 1-22,text,true,,162225,326,4,4,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,39,0,0
+1688501179601,39,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-22,text,true,,608,163,4,4,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,39,0,0
+1688501179640,453,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-22,text,true,,161617,163,4,4,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,278,0,0
+1688501179320,889,"Get Subscriptions ""/index.js""",200,OK,DB 1-13,text,true,,162225,326,4,4,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,39,0,0
+1688501179320,39,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-13,text,true,,608,163,4,4,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,39,0,0
+1688501179359,850,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-13,text,true,,161617,163,4,4,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,452,0,0
+1688501179979,415,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-52,text,true,,17337,336,4,4,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501179979,54,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-52,text,true,,613,168,4,4,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501180033,361,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-52,text,true,,16724,168,4,4,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,361,0,82
+1688501180405,400,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-22,text,true,,17337,336,3,3,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,53,0,0
+1688501180405,53,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-22,text,true,,613,168,3,3,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,53,0,0
+1688501179445,1353,"Get Subscriptions ""/index.js""",200,OK,DB 1-16,text,true,,162225,326,3,3,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,36,0,0
+1688501180459,346,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-22,text,true,,16724,168,3,3,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,346,0,84
+1688501179445,36,"Get Subscriptions ""/index.js""-0",301,Moved Permanently,DB 1-16,text,true,,608,163,3,3,http://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,36,0,0
+1688501179482,1316,"Get Subscriptions ""/index.js""-1",200,OK,DB 1-16,text,true,,161617,163,3,3,https://cd78b1x0cc.execute-api.us-east-1.amazonaws.com/dev/index.js,880,0,0
+1688501180513,397,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-13,text,true,,17337,336,2,2,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501180513,54,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-13,text,true,,613,168,2,2,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,54,0,0
+1688501180568,342,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-13,text,true,,16724,168,2,2,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,342,0,81
+1688501181121,997,"Get Subscriptions ""/subscriptions""",200,OK,DB 1-16,text,true,,17337,336,1,1,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501181121,55,"Get Subscriptions ""/subscriptions""-0",301,Moved Permanently,DB 1-16,text,true,,613,168,1,1,http://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,55,0,0
+1688501181177,941,"Get Subscriptions ""/subscriptions""-1",200,OK,DB 1-16,text,true,,16724,168,1,1,https://8laxy1qrxi.execute-api.us-east-1.amazonaws.com/dev/subscriptions,941,0,80
